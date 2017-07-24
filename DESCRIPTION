@@ -1,0 +1,26 @@
+Encoding: UTF-8
+Package: movement
+Title: Movement
+Version: 0.3.1
+Date: 2015-01-30
+Author: Johan Junkka <johan.junkka@umu.se>
+Maintainer: Johan Junkka <johan.junkka@umu.se>
+Description: Popular movement data for Sweden 1881-1950.
+URL: https://bitbucket.com/junkka/movement
+Depends:
+    R (>= 3.0.3)
+License: MIT + file LICENSE
+LazyData: true
+Roxygen: list(wrap = FALSE)
+VignetteBuilder: knitr
+Suggests:
+    histmaps,
+    ggplot2,
+    sp,
+    rgdal,
+    dplyr,
+    tidyr,
+    zoo,
+    testthat,
+    knitr
+RoxygenNote: 6.0.1

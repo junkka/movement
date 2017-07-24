@@ -1,0 +1,2622 @@
+      nr,code   ,name                      
+     759,0100080,Stockholm                 
+      12,0201010,Lovö                      
+      21,0201020,Ekerö                     
+      10,0201030,Munsö                     
+       8,0201040,Adelsö                    
+       9,0201050,Färentuna                 
+       6,0201060,Hilleshög                 
+      17,0201070,Sånga                     
+       2,0201100,Skå                       
+       9,0202010,Spånga                    
+      10,0202014,Hässelby                  
+       2,0202018,Flysta                    
+      23,0202020,Järfälla                  
+       7,0202040,Ed Stockholm              
+      19,0202190,Sollentuna kg             
+       7,0203010,Lagga                     
+       3,0203020,Östuna                    
+       8,0203030,Husby-Långhundra          
+       6,0203040,Närtuna                   
+       7,0203050,Gottröra                  
+      12,0203060,Kårsta                    
+       8,0204010,Alsike                    
+      15,0204020,Knivsta                   
+      10,0204030,Odensala                  
+      16,0204040,Husby-Ärlinghundra        
+       5,0204050,Norrsunda                 
+       4,0204060,Vassunda                  
+       8,0204070,Haga                      
+      21,0205010,Skepptuna                 
+       8,0205020,Lunda Stockholm           
+       8,0205030,Vidbo                     
+       6,0205040,Skånela                   
+       6,0205050,Markim                    
+       1,0205060,Orkesta                   
+       4,0205070,Frösunda                  
+       3,0206010,Fresta                    
+      10,0206020,Hammarby Stockholm        
+       8,0206030,Vallentuna                
+       3,0206050,Angarn                    
+      10,0206060,Össeby-Garn               
+      19,0207010,Börstil                   
+      10,0207020,Gräsö                     
+      14,0207030,Harg                      
+      11,0207040,Edebo                     
+      14,0207050,Hökhuvud                  
+      16,0207060,Valö                      
+      17,0207070,Forsmark                  
+      22,0208010,Almunge                   
+      16,0208020,Knutby                    
+      10,0208030,Faringe                   
+       5,0208040,Bladåker                  
+      16,0208050,Ununge                    
+      15,0208060,Edsbro                    
+      23,0209010,Väddö                     
+      43,0209020,Häverö                    
+       4,0209030,Singö                     
+      18,0210010,Söderby-Karl              
+       9,0210020,Estuna                    
+       7,0210030,Lohärad                   
+       4,0210040,Malsta                    
+       3,0210050,Husby-Lyhundra            
+      10,0211010,Skederid                  
+      25,0211020,Rimbo                     
+       7,0211030,Rö                        
+      13,0211040,Fasterna                  
+       8,0212010,Roslags-Bro               
+      15,0212020,Vätö                      
+       4,0212030,Björkö-Arholma            
+      15,0213010,Frötuna                   
+       3,0213020,Rådmansö                  
+      21,0213030,Länna Sthlm               
+       9,0213040,Blidö                     
+       6,0214010,Östra Ryd Sthlm           
+       2,0214190,Stocksund                 
+       8,0214390,Danderyds Kg              
+      18,0214490,Täby Kg                   
+      18,0215010,Österåker Sthlm           
+       5,0215020,Riala                     
+       8,0215030,Roslags-Kulla             
+      16,0215040,Ljusterö                  
+      33,0216010,Värmdö                    
+      10,0216020,Djurö                     
+       3,0216030,Möja                      
+       8,0216040,Gustavsberg               
+       5,0216050,Ingarö                    
+       9,0216060,Bo Sthlm                  
+      18,0217010,Österhaninge              
+       3,0217020,Ornö                      
+       2,0217030,Nämdö                     
+       2,0217040,Utö                       
+       6,0217050,Tyresö                    
+      10,0217060,Dalarö                    
+      22,0217070,Västerhaninge             
+      10,0217100,Muskö                     
+      11,0217110,Ösmo                      
+      15,0217120,Sorunda                   
+       9,0217130,Torö                      
+       6,0218010,Grödinge                  
+      22,0218020,Botkyrka                  
+      23,0218025,Tumba                     
+       7,0218030,Salem                     
+      10,0218035,Rönninge                  
+      14,0218040,Huddinge                  
+       4,0218043,Segeltorp                 
+       1,0218044,Stuvsta                   
+       8,0218050,Brännkyrka                
+       4,0218056,Liljeholmen               
+      16,0218090,Saltsjöbaden              
+       7,0219010,Östertälje                
+       6,0219020,Västertälje               
+       9,0219030,Tveta                     
+       5,0219040,Överjärna                 
+      11,0219045,Järna                     
+       1,0219050,Ytterjärna                
+      11,0219060,Vårdinge                  
+      20,0219070,Turinge                   
+      79,0220080,Södertälje                
+      22,0221080,Vaxholm                   
+      56,0222080,Norrtälje                 
+      24,0223080,Östhammar                 
+      10,0224080,Öregrund                  
+      25,0225080,Sigtuna                   
+       9,0226080,Djursholm                 
+      28,0227080,Lidingö                   
+      18,0228080,Nacka                     
+      39,0229080,Nynäshamn                 
+      33,0230080,Solna                     
+      35,0231080,Sundbyberg                
+       3,0301010,Kalmar                    
+       2,0301020,Övergran                  
+       4,0301030,Yttergran                 
+       4,0301040,Häggeby                   
+       6,0301050,Skokloster                
+       8,0301060,Håtuna                    
+       1,0301070,Håbo-Tibble               
+       5,0302010,Bro och Lossa             
+       8,0302011,Bro                       
+       3,0302012,Lossa                     
+       4,0302020,Västra Ryd                
+       4,0302030,Stockholms-Näs            
+       5,0303010,Hacksta                   
+       5,0303020,Löt                       
+       7,0303030,Veckholm                  
+       3,0303050,Kungs-Husby               
+       1,0303060,Härkeberga                
+       7,0303070,Litslena                  
+       6,0303100,Husby-Sjutolft            
+       2,0303110,Villberga                 
+       9,0303115,Grillby                   
+       2,0303120,Lillkyrka                 
+       2,0303140,Vallby                    
+       8,0304010,Tillinge                  
+       3,0304020,Svinnegarn                
+       3,0304030,Enköpings-Näs             
+       1,0304040,Teda                      
+       6,0304050,Sparrsätra                
+       5,0304060,Bred                      
+       4,0304070,Vårfrukyrka               
+       3,0305010,Långtora                  
+       7,0305020,Nysätra                   
+       4,0305030,Biskopskulla              
+      10,0305040,Fröslunda                 
+       3,0305050,Giresta                   
+       2,0305060,Fittja                    
+       4,0305070,Hjälsta                   
+       2,0305100,Holm                      
+       4,0305110,Kulla                     
+       4,0306010,Gryta                     
+       7,0306020,Balingsta                 
+       5,0306030,Hagby                     
+       6,0306040,Ramsta                    
+       4,0306050,Västeråker                
+       5,0306060,Dalby                     
+       8,0306070,Skogs-Tibble              
+       4,0306100,Åland                     
+      13,0306110,Järlåsa                   
+       8,0307020,Börje                     
+       2,0307030,Uppsala-Näs               
+      10,0307040,Vänge                     
+       2,0307050,Läby                      
+       4,0307060,Jumkil                    
+       6,0308010,Åkerby                    
+      14,0308030,Bälinge                   
+       1,0308032,Harbo                     
+       3,0308040,Skuttunge                 
+      13,0309020,Vaksala                   
+       2,0309030,Danmark                   
+      10,0310010,Rasbo                     
+       5,0310020,Rasbokil                  
+       6,0310030,Fundbo                    
+      11,0311010,Tensta                    
+       5,0311020,Viksta                    
+      11,0311030,Björklinge                
+       8,0311040,Ärentuna                  
+      12,0311050,Lena                      
+      23,0312010,Vendal                    
+      21,0312020,Söderfors                 
+      51,0312030,Tierp                     
+      22,0312040,Västland                  
+      12,0312050,Tolfta                    
+      66,0312060,Älvkarleby                
+       5,0312061,Skutskär                  
+      19,0312090,Tierps Kg                 
+      16,0313010,Skäfthammar               
+       8,0313020,Ekeby                     
+      29,0313030,Alunda                    
+       8,0313040,Morkarla                  
+       9,0313050,Tuna                      
+       5,0313060,Stavby                    
+      17,0313070,Dannemora                 
+      18,0313100,Film                      
+      18,0313110,Tegelsmora                
+      32,0313120,Österlövsta               
+      22,0313130,Hållnäs                   
+     110,0314080,Uppsala                   
+      52,0315080,Enköping                  
+       8,0401010,Tuna                      
+       5,0401020,Bergshammar               
+      18,0401030,Tunaberg                  
+      13,0401040,Lunda                     
+      23,0401050,Kila                      
+      14,0401060,Björkvik                  
+       3,0401070,Halla                     
+      15,0401100,Stigtomta                 
+       2,0401110,Nykyrka                   
+       8,0401120,Bärbo                     
+      16,0401130,Sankt Nikolai             
+       7,0402010,Ripsa                     
+       4,0402020,Lid                       
+       8,0402030,Runtuna                   
+       8,0402040,Ludgo                     
+       2,0402050,Spelvik                   
+       7,0402060,Bälinge                   
+      10,0402070,Tystberga                 
+       6,0402110,Lästringe                 
+       6,0402120,Sätersta                  
+       3,0402130,Bogsta                    
+       6,0402140,Råby-Rönö                 
+      15,0402150,Svärta                    
+       4,0402160,Helgona                   
+      12,0403010,Hölö                      
+       9,0403020,Mörkö                     
+      18,0403030,Västerljung               
+       3,0403040,Trosa Landsk              
+      12,0403050,Vagnhärad                 
+      33,0404010,Västra Vingåker           
+      32,0404015,Vingåker                  
+      11,0404020,Östra Vingåker            
+      14,0404030,Julita                    
+      14,0404040,Öståker                   
+      25,0404050,Stora Malm                
+      13,0404060,Lerbo                     
+      31,0404070,Floda                     
+      18,0404100,Sköldinge (Skyllinge)     
+      13,0404105,Valla                     
+       2,0404110,Blacksta                  
+       9,0404120,Vadsbro                   
+       3,0404130,Husby-Oppunda             
+      19,0404140,Bettna                    
+      16,0404150,Vrena                     
+      10,0405010,Helgesta                  
+       2,0405020,Hyltinge                  
+      14,0405025,Sparreholm                
+      15,0405030,Dunker                    
+       5,0405040,Lilla Malma               
+       5,0405060,Årdala                    
+       6,0405070,Forsa                     
+      22,0405090,Malmköping                
+      20,0405100,Lilla Mellösa             
+       6,0406010,Torshälla Landsk          
+       6,0406020,Gillberga                 
+       5,0406030,Lista                     
+       9,0406040,Tumbo                     
+       7,0406050,Råby-Rekarne              
+      12,0406060,Öja                       
+      13,0406070,Västermo                  
+       7,0407010,Jäder                     
+       6,0407020,Barva                     
+       6,0407030,Kjula                     
+       2,0407040,Sundby                    
+       2,0407050,Vallby                    
+       1,0407060,Hammarby                  
+       9,0407070,Stenkvista                
+      13,0407100,Ärla                      
+      22,0407110,Husby-Rekarne             
+      10,0407120,Näshulta                  
+       1,0408000,Daga Hd                   
+      11,0408010,Gåsinge                   
+       3,0408030,Frustuna                  
+      30,0408035,Gnesta                    
+       5,0408050,Björnlunda                
+      24,0408060,Gryt                      
+      18,0409010,Åker                      
+       9,0409020,Länna                     
+       5,0409030,Vansö                     
+       7,0409040,Härad                     
+       8,0409050,Fogdö                     
+       5,0409060,Hälgarö                   
+       1,0409070,Strängnäs Landsk          
+       7,0410010,Tresund                   
+       6,0410020,Överselö                  
+      13,0410030,Ytterselö                 
+       5,0410040,Aspö                      
+       3,0410050,Kärnbo                    
+      10,0410060,Taxinge                   
+       3,0410070,Överenhörna               
+      12,0410100,Ytterenhörna              
+      82,0411080,Nyköping                  
+     125,0412080,Eskilstuna                
+      21,0413080,Torshälla                 
+      44,0414080,Strängnäs                 
+      20,0415080,Mariefrewd                
+      17,0416080,Trosa                     
+      33,0417080,Flen                      
+      18,0418080,Oxelösund                 
+      62,0419080,Katrineholm               
+      14,0501010,Horn                      
+      10,0501020,Hycklinge                 
+       6,0501030,Tirserum                  
+       6,0501040,Västra Eneby              
+      33,0501050,Kisa                      
+       6,0501055,Kisa Me                   
+       1,0501060,Hägerstad                 
+      10,0501070,Oppeby                    
+       7,0501100,Kättilstad                
+      14,0501110,Tjärstad                  
+      11,0501120,Vårdnäs                   
+       9,0502010,Västra Ryd                
+      10,0502020,Svinhult                  
+      24,0502030,Sund                      
+       8,0502040,Asby                      
+       9,0502050,Torpa                     
+      12,0502060,Norra Vi                  
+      11,0503010,Västra Harg               
+      12,0503020,Östra Tollstad            
+       5,0503030,Sya                       
+      21,0503040,Veta                      
+       1,0503050,Viby                      
+       7,0503060,Normlösa                  
+       5,0503070,Härberga                  
+       6,0503100,Västerlösa                
+      11,0504010,Nykil                     
+       7,0504020,Gammalkil                 
+      15,0504030,Ulrika                    
+       1,0504040,Rappestad                 
+       4,0504050,Sjögestad                 
+      11,0504060,Vikingstad                
+       4,0504070,Ledeberg                  
+      21,0505010,Vreta Kloster             
+      10,0505020,Stjärnorp                 
+       7,0505030,Ljung                     
+       3,0505040,Flistad                   
+       2,0505050,Björkeberg                
+       3,0506010,Östra Skrukeby            
+       8,0506030,Törnevalla                
+       2,0506040,Östra Harg                
+       4,0506050,Rystad                    
+       6,0507010,Vårdsberg                 
+       8,0507020,Askeby                    
+       6,0507030,Bankekind                 
+       5,0507040,Grebo                     
+       5,0507050,Värna                     
+       5,0507060,Örtomta                   
+      13,0507070,Björsäter                 
+      46,0507100,Åtvid                     
+       3,0508010,Slaka                     
+       8,0508020,Skeda                     
+      10,0508030,Kärna                     
+       5,0508040,Kaga                      
+      14,0508050,Landeryd                  
+       7,0508060,Vist                      
+       4,0509010,Västra Husby              
+       8,0509020,Drothem                   
+       5,0509030,Skönberga                 
+      44,0509040,Ringarum                  
+      12,0509050,Mogata                    
+       4,0509060,Börrum                    
+      14,0509070,Gryt                      
+      31,0509090,Valdemarsvik              
+       9,0509100,Skällvik                  
+      16,0509110,Sankt Anna                
+       8,0510010,Skärkind                  
+      12,0510020,Gistad                    
+       5,0510030,Gårdeby                   
+      10,0510040,Östra Ryd                 
+       8,0510050,Yxnerum                   
+      16,0511010,Godegård                  
+      15,0511020,Tjällmo                   
+      43,0511030,Hällestad                 
+      15,0511040,Risinge                   
+      17,0511050,Regna                     
+      54,0511060,Skedevi                   
+      11,0511070,Vånga                     
+      74,0511090,Finspång                  
+      10,0512010,Kuddby                    
+       6,0512020,Östra Ny                  
+       3,0512030,Rönö                      
+       3,0512040,Å                         
+       8,0512050,Tåby                      
+       2,0512060,Konungsund                
+       6,0513010,Häradshammar              
+      13,0513020,Jonsberg                  
+      13,0513030,Östra Husby               
+       4,0513040,Kvarsebo                  
+       4,0513050,Östra Stenby              
+      12,0514010,Styrestad                 
+       5,0514030,Dagsberg                  
+      16,0514040,Krokek                    
+      11,0514045,Kolmården                 
+       6,0514050,Tingstad                  
+       2,0514060,Furingstad                
+      28,0515020,Kvillinge                 
+      10,0515030,Simonstorp                
+      14,0516010,Kimstad                   
+      27,0516020,Kullerstad                
+      11,0516030,Borg                      
+       7,0517010,Svanhals                  
+       3,0517020,Kumla                     
+      10,0517030,Rök                       
+       5,0517040,Heda                      
+       4,0517050,Stora Åby                 
+      23,0517060,Ödeshög                   
+      13,0517065,Ödeshögs Me               
+       7,0517070,Trehörna                  
+      13,0517100,Västra Tollstad           
+      24,0518010,Ekeby                     
+       5,0518020,Blåvik                    
+       9,0518030,Rinna                     
+      12,0518040,Åsbo                      
+       6,0518050,Malexander Göstrings Hd   
+       7,0518060,Högby                     
+       8,0518070,Hogstad                   
+      14,0518090,Boxholm                   
+       2,0518100,Järstad                   
+       6,0518110,Allhelgona                
+       5,0518120,Bjälbo                    
+       8,0518130,Väderstad                 
+       3,0518140,Hov                       
+       1,0518150,Appuna                    
+       6,0519010,Västra Stenby             
+       4,0519020,Hagebyhöga                
+      15,0519030,Fivelstad                 
+       5,0519040,Orlunda                   
+       5,0519050,Varv                      
+       2,0519070,Ask                       
+       3,0519100,Vinnerstad                
+       5,0519110,Motala Lk                 
+      11,0519120,Västra Ny                 
+      16,0520010,Rogslösa                  
+       2,0520020,Väversunda                
+       2,0520030,Herrestad                 
+       1,0520040,Källstad                  
+       3,0520060,Strå                      
+       4,0520070,Örberga                   
+       6,0521010,Klockrike                 
+      24,0521020,Brunneby                  
+       6,0521030,Skeppsås                  
+       5,0521040,Älvestad                  
+       3,0521050,Vallerstad                
+       6,0521060,Fornåsa                   
+       3,0521070,Lönsås                    
+       7,0521100,Ekebyborna                
+       9,0521110,Kristberg                 
+     124,0522080,Linköping                 
+     198,0523080,Norrköping                
+      43,0524080,Söderköping               
+      80,0525080,Motala                    
+      32,0526080,Vadstena                  
+      36,0527080,Skänninge                 
+      53,0528080,Mjölby                    
+       4,0601010,Svarttorp                 
+       8,0601020,Lekeryd                   
+       7,0601030,Järsnäs                   
+      16,0601040,Forserum                  
+       2,0601045,Forserums Me              
+      13,0601050,Barkeryd                  
+       3,0601070,Järstorp                  
+      14,0601100,Bankeryd                  
+      11,0601110,Rogberga                  
+       2,0601120,Öggestorp                 
+      17,0601130,Barnarp                   
+      15,0601140,Månsarp                   
+      11,0601150,Sandseryd                 
+       9,0601160,Hakarp                    
+       9,0602010,Visingsö                  
+       7,0602020,Gränna Lk                 
+       8,0602030,Skärstad                  
+       4,0602040,Ölmestad                  
+       8,0603010,Bottnaryd                 
+       5,0603020,Mulseryd                  
+       2,0603030,Angerdshestra             
+       1,0603040,Stengårdshult             
+       3,0603050,Norra Unnaryd             
+       1,0603060,Valdshult                 
+       2,0603070,Öreryd                    
+       6,0603100,Norra Hestra              
+       2,0603110,Bonstorp                  
+       5,0603120,Åsenhöga                  
+      15,0603130,Källeryd                  
+      10,0604010,Lommaryd                  
+       6,0604020,Bälaryd                   
+      14,0604025,Aneby                     
+       5,0604030,Frinnaryd                 
+      12,0604040,Adelöv                    
+       3,0604050,Vireda                    
+       1,0604060,Haurida                   
+       4,0604070,Askeryd                   
+       5,0604100,Bredestad                 
+       2,0604110,Marbäck                   
+      11,0604120,Linderås                  
+      15,0604130,Säby                      
+      32,0605010,Ingatorp                  
+       2,0605020,Bellö                     
+       1,0605030,Hässleby                  
+       7,0605040,Hult                      
+       4,0605050,Edshult                   
+       4,0605060,Höreda                    
+       2,0605070,Mellby                    
+      21,0605090,Mariannelund              
+       8,0605110,Flisby                    
+      23,0605120,Norra Solberga            
+      16,0606020,Björkö                    
+       3,0606030,Nävelsjö                  
+      12,0606040,Karlstorp                 
+       6,0606050,Kråkshult                 
+      36,0606060,Alseda                    
+       8,0606070,Skede                     
+       8,0606100,Ökna                      
+       5,0606110,Skirö                     
+       8,0606120,Nye                       
+       7,0606130,Näshult                   
+       6,0606140,Stenberga                 
+       6,0606150,Korsberga                 
+       2,0606160,Lemnhult                  
+       3,0606170,Bäckseda                  
+       1,0606200,Näsby                     
+       8,0606210,Myresjö                   
+       9,0606220,Lannaskede                
+      21,0607010,Norra Sandsjö             
+      50,0607020,Vallsjö                   
+       6,0607040,Bäckaby                   
+       7,0607050,Ramkvilla                 
+       2,0607060,Södra Solberga            
+       3,0607070,Hultsjö                   
+      10,0607090,Bodafors                  
+       2,0607100,Skepperstad               
+       6,0607120,Hjälmseryd                
+      18,0607130,Stockaryd                 
+      21,0607140,Vrigstad                  
+       3,0607150,Nydala                    
+       9,0607160,Svennarum                 
+      15,0607170,Malmbäck                  
+       5,0607200,Ödestuga                  
+       1,0607210,Almesåkra                 
+       5,0607220,Bringetofta               
+       1,0607230,Norra Ljunga              
+       2,0607240,Hyllestofta               
+       2,0608010,Tofteryd                  
+      17,0608015,Skillingaryd              
+       7,0608020,Byarum                    
+      18,0608025,Vaggeryd                  
+       5,0608030,Fryele                    
+       1,0608040,Hagshult                  
+      16,0608050,Rydaholm                  
+      14,0608060,Gällaryd                  
+      16,0608100,Våxtorp                   
+       2,0608110,Tånnö                     
+       4,0608120,Kärda                     
+       6,0608130,Hånger                    
+       2,0608140,Åker                      
+       8,0608150,Kävsjö                    
+      12,0609010,Södra Unnaryd             
+       2,0609020,Jälluntofta               
+       3,0609030,Femsjö                    
+      15,0609040,Långaryd                  
+      23,0609050,Färgaryd                  
+       1,0609060,Södra Hästra              
+       4,0609070,Gryteryd                  
+       8,0609100,Burseryd                  
+       3,0609110,Sandvik                   
+       2,0609120,Bosebo                    
+      26,0609130,Villstad                  
+      26,0609140,Båraryd                   
+       3,0609150,Våthult                   
+       8,0609160,Reftele                   
+      13,0609170,Anderstorp                
+       4,0609200,Kulltorp                  
+      25,0609210,Gnosjö                    
+       7,0609220,Forsheda                  
+       8,0609230,Bredaryd                  
+       3,0609240,Torskinge                 
+       4,0609250,Ås                        
+       1,0609260,Källerstad                
+      11,0609270,Bolmsö                    
+       5,0609300,Dannäs                    
+       4,0609310,Tannåker                  
+     126,0610080,Jönköping                 
+      56,0611080,Eksjö                     
+      27,0612080,Huskvarna                 
+      19,0613080,Gränna                    
+      69,0614080,Tranås                    
+      68,0615080,Nässjö                    
+      69,0616080,Värnamo                   
+       0,0617080,Sävsjö                    
+      64,0618080,Vetlanda                  
+      13,0701010,Hovmantorp                
+       9,0701015,Hovmantorps Me            
+       9,0701020,Furuby                    
+       5,0701030,Hemmesjö                  
+       3,0701040,Tegnaby                   
+       8,0701060,Nöbbele                   
+      11,0701070,Östra Torsås              
+      16,0701090,Lessebo                   
+       7,0701100,Långasjö                  
+      19,0701110,Ljuder                    
+       9,0701120,Älmeboda                  
+      20,0701130,Linneryd                  
+      22,0701140,Södra Sandsjö             
+       5,0701150,Väckelsång                
+       2,0701160,Tingsås                   
+       2,0701170,Uråsa                     
+      21,0701190,Tingsryd                  
+      21,0702010,Åseda                     
+       1,0702015,Åseda Me                  
+      39,0702020,Älghult                   
+      28,0702030,Hälleberga                
+      23,0702040,Algutsboda                
+      17,0702050,Lenhovda                  
+      18,0702055,Lenhovda Me               
+      14,0702060,Ekeberga                  
+      10,0702070,Dädesjö                   
+       4,0702100,Herråkra                  
+       6,0702110,Sjösås                    
+      13,0702120,Drev                      
+       3,0702130,Hornaryd                  
+      30,0702160,Nottebäck med Granhult    
+       9,0703020,Bergunda                  
+      16,0703030,Öja                       
+       3,0703040,Vederslöv                 
+       2,0703050,Dänningelanda             
+       7,0703060,Skatelöv                  
+       5,0703070,Tävelsås                  
+       6,0703100,Kalvsvik                  
+       3,0703110,Jät                       
+      12,0703120,Urshult                   
+      16,0703130,Almundsryd                
+      13,0703135,Ryd                       
+       6,0704010,Berg                      
+       2,0704020,Ormesberga                
+      11,0704030,Aneboda                   
+       7,0704040,Tolg                      
+       4,0704050,Tjureda                   
+       2,0704060,Asa                       
+       5,0704070,Gårdsby                   
+       8,0704100,Söraby                    
+      11,0705010,Virestad                  
+      10,0705020,Stenbrohult               
+      17,0705030,Vislanda                  
+       1,0705035,Vislanda Me               
+       4,0705060,Västra Torsås             
+       2,0705070,Härlunda                  
+      37,0705090,Älmhult                   
+       3,0705100,Lekaryd                   
+      37,0705110,Aringsås                  
+       4,0705120,Hjortsberga               
+       5,0705140,Slätthög                  
+       6,0705150,Mistelås                  
+      12,0705160,Moheda                    
+       7,0705165,Moheda Me                 
+       2,0705170,Ör                        
+       1,0705200,Härlöv                    
+      10,0706010,Vittaryd                  
+      20,0706020,Berga                     
+       5,0706030,Dörarp                    
+      22,0706040,Ryssby                    
+       6,0706050,Tutaryd                   
+       8,0706060,Agunnaryd                 
+       5,0706070,Pjätteryd                 
+       7,0706090,Markaryds Kg              
+      12,0706100,Göteryd                   
+      12,0706110,Traryd                    
+      19,0706115,Strömsnäs                 
+       3,0706120,Hallaryd                  
+      23,0706130,Markaryd                  
+       7,0706140,Hinneryd                  
+       5,0706150,Odensjö                   
+      10,0706160,Lidhult                   
+       5,0706165,Lidhults Me               
+      11,0706170,Vrå                       
+      18,0706200,Annerstad                 
+       8,0706210,Torpa                     
+       2,0706220,Nöttja                    
+       6,0706240,Angelstad                 
+       5,0706250,Känna                     
+       7,0706260,Södra Ljunga              
+       9,0706270,Hamneda                   
+      83,0707080,Växjö                     
+      51,0708080,Ljungby                   
+      18,0801010,Dalhelm                   
+      20,0801020,Gärdserum                 
+      12,0801030,Ukna                      
+      33,0801040,Västra Ed                 
+       7,0801050,Östra Ed                  
+      13,0801060,Tryserum                  
+       9,0801070,Hannäs                    
+      11,0801100,Lofta                     
+      13,0801110,Loftahammar               
+      38,0802010,Hjorted                   
+      28,0802020,Hallingeberg              
+      14,0802030,Locknevi                  
+       6,0802040,Blackstad                 
+      10,0802050,Odensvi                   
+      26,0802060,Gladhammar                
+       6,0802070,Västerrum                 
+      12,0802100,Törnsfall                 
+      22,0802110,Gamleby                   
+       1,0802115,Gamleby Me                
+      34,0803010,Misterhult                
+      18,0803020,Tuna                      
+      16,0803030,Kristdala                 
+      10,0803090,Figeholm                  
+       6,0804010,Rumskulla                 
+      12,0804020,Vimmerby Lk               
+       1,0804030,Pelarne                   
+      10,0804040,Södra Vi                  
+      10,0804045,Södra Vi Me               
+       8,0804050,Djursdala                 
+       5,0804060,Frödinge                  
+      40,0804070,Vena                      
+      30,0805010,Mörlunda                  
+       1,0805020,Tveta                     
+      23,0805030,Målilla                   
+       5,0805040,Gårdveda                  
+      19,0805050,Lönneberga                
+      34,0805060,Virserum                  
+       5,0805065,Virserums Me              
+       6,0805070,Järeda                    
+      47,0806010,Högsby                    
+      15,0806015,Ruda                      
+       9,0806020,Fågelfors                 
+      10,0806030,Långemåla                 
+       2,0806035,Ruda Långemåla            
+      24,0806040,Fliseryd                  
+      26,0806050,Fagerhult                 
+      16,0806060,Kråksmåla                 
+       1,0807010,Dörby                     
+       3,0807020,Kläckeberga               
+      14,0807040,Förlösa                   
+       5,0807050,Kristvalla                
+      15,0807060,Åby                       
+      15,0807070,Bäckebo                   
+      13,0807100,Ryssby                    
+      44,0808010,Ålem                      
+       3,0808019,Pataholm                  
+      37,0808020,Mönsterås                 
+      31,0808030,Döderhult                 
+      10,0808039,Påskallavik               
+      16,0809010,Torsås                    
+      11,0809015,Torsås Me                 
+       4,0809020,Gullabo                   
+      21,0809030,Vissefjärda               
+      10,0809040,Söderåkra                 
+      10,0809045,Bergkvara                 
+       5,0809050,Halltorp                  
+       6,0809060,Våxtorp                   
+       4,0809070,Arby                      
+       9,0809100,Karlslunda                
+       8,0809110,Hagby                     
+       7,0809120,Mortorp                   
+       1,0809130,Oskar                     
+      26,0809140,Madesjö                   
+       7,0809160,Örsjö                     
+      37,0809170,Ljungby                   
+      22,0809190,Emmaboda                  
+       2,0809210,Hossmo                    
+      16,0810010,Böda                      
+       6,0810020,Högby                     
+       4,0810030,Källa                     
+       5,0810040,Persnäs                   
+       5,0810050,Föra                      
+       4,0811010,Löt                       
+       5,0811030,Gärdslösa                 
+       1,0811040,Bredsätra                 
+       4,0811050,Långlöt                   
+       3,0811060,Runsten                   
+       2,0812010,Alböke                    
+       5,0812020,Köping                    
+       7,0812030,Räpplinge                 
+       4,0812040,Högsrum                   
+       3,0813010,Norra Möckleby            
+       4,0813020,Sandby                    
+       2,0813030,Gårdby                    
+       2,0813040,Hulterstad                
+       2,0814010,Resmo                     
+      11,0814020,Mörbylånga                
+       5,0814030,Vickleby                  
+      10,0814040,Torslunda                 
+       5,0814050,Glömminge                 
+       7,0814060,Algutsrum                 
+       1,0814090,Mörbylånga Kg             
+       1,0815010,Segerstad                 
+       2,0815020,Gräsgård                  
+       2,0815030,Ås                        
+       7,0815040,Ventlinge                 
+       9,0815050,Smedby                    
+      12,0815060,Södra Möckleby            
+       8,0815070,Kastlösa                  
+      82,0816080,Kalmar                    
+      73,0817080,Oskarshamn                
+      89,0818080,Västervik                 
+      39,0819080,Vimmerby                  
+      35,0820080,Borgholm                  
+      44,0821080,Nybro                     
+       2,0901020,Endre                     
+       1,0901030,Hejdeby                   
+       3,0901040,Barlingbo                 
+      16,0901110,Roma                      
+       1,0901120,Björke                    
+       4,0901130,Follingbo                 
+       4,0901210,Fole                      
+       2,0901220,Lokrume                   
+       8,0901230,Västkinde                 
+       2,0901240,Bro                       
+       2,0901310,Hejnum                    
+       1,0901320,Bäl                       
+       1,0901330,Källunge                  
+       2,0901340,Vallstena                 
+       7,0901410,Martebo                   
+       6,0901420,Lummelunda                
+       9,0901430,Stenkyrka                 
+       8,0901440,Tingstäde                 
+       2,0901510,Othem                     
+       4,0901520,Boge                      
+      11,0901530,Hangvar                   
+       2,0901540,Hall                      
+      12,0901550,Lärbo                     
+       5,0901560,Hellvi                    
+      17,0901590,Slite                     
+      15,0901610,Rute                      
+       7,0901620,Fleringe                  
+       6,0901630,Bunge                     
+      18,0901640,Fårö                      
+       6,0901710,Gothem                    
+       4,0901720,Norrlanda                 
+       4,0901730,Hörsne med Bara           
+       9,0901810,Dalhem                    
+       4,0901830,Halla                     
+       2,0901840,Sjonhem                   
+       1,0901850,Viklau                    
+       5,0901860,Vänge                     
+       4,0901870,Buttle                    
+       2,0901910,Guldrupe                  
+      11,0901920,Östergarn                 
+       1,0901930,Gammelgarn                
+      10,0901940,Ardre                     
+       6,0901950,Kräklingbo                
+       6,0901960,Ala                       
+       2,0902010,Stenkumla                 
+       6,0902020,Västerhejde               
+       3,0902030,Träkumla                  
+       3,0902040,Vall                      
+       6,0902050,Hogrän                    
+       1,0902060,Atlingbo                  
+       4,0902110,Eskelhem                  
+       2,0902120,Tofta                     
+       7,0902130,Sanda                     
+       4,0902140,Mästerby                  
+       4,0902150,Västergarn                
+       4,0902210,Hejde                     
+       4,0902220,Väte                      
+      17,0902230,Klinte                    
+       3,0902240,Fröjel                    
+      21,0902310,Öja                       
+       5,0902320,Hamra                     
+       9,0902330,Vamlingbo                 
+       6,0902410,Havdhem                   
+       5,0902420,Näs                       
+       5,0902430,Grötlingbo                
+       2,0902440,Fide                      
+       5,0902510,Rone                      
+       4,0902520,Eke                       
+       6,0902530,Alva                      
+      18,0902540,Hemse                     
+       1,0902545,Hemse Me                  
+       3,0902610,Hablingbo                 
+       3,0902620,Silte                     
+       3,0902630,Eksta                     
+       4,0902640,Sproge                    
+       4,0902710,Fardhem                   
+       8,0902720,Linde                     
+       2,0902730,Lojsta                    
+       6,0902740,Levede                    
+       1,0902750,Gerum                     
+       6,0902810,När                       
+       4,0902820,Lau                       
+       2,0902830,Burs                      
+       8,0902840,Stånga                    
+       2,0902910,Alskog                    
+       4,0902920,Lye                       
+       7,0902930,Garde                     
+       4,0902940,Etelhem                   
+      95,0903080,Visby                     
+      12,1001010,Kristianopel              
+      32,1001020,Torhamn                   
+      13,1001030,Sturkö                    
+      10,1001040,Tjurkö                    
+      19,1001050,Ramdala                   
+      42,1001060,Jämjö                     
+      21,1001070,Lösen                     
+      11,1001100,Augerum                   
+      19,1001110,Rödeby                    
+      20,1002010,Fridlevstad               
+       4,1002020,Sillhövda                 
+      17,1002030,Nättraby                  
+      24,1002050,Listerby                  
+       6,1002060,Förkärla                  
+      10,1002070,Hjortsberga               
+       5,1002100,Edestad                   
+      28,1002110,Tving                     
+       6,1002120,Eringsboda                
+      29,1002130,Ronneby Lk                
+      13,1002140,Backaryd                  
+      10,1002150,Hasslö                    
+       7,1002160,Aspö                      
+      31,1003010,Bräkne-Hoby               
+       6,1003020,Öljehult                  
+      18,1003030,Hällaryd                  
+      17,1003040,Åryd                      
+      63,1003050,Asarum                    
+       9,1003060,Ringamåla                 
+      23,1004010,Mörrum                    
+       3,1004020,Elleholm                  
+      24,1004030,Jämshög                   
+      25,1004040,Kyrkhult                  
+      14,1004050,Gammalstorp               
+      11,1004060,Ysane                     
+      23,1004070,Mjällby                   
+      20,1004090,Olofström                 
+     123,1005080,Karlskrona                
+      82,1006080,Ronneby                   
+      75,1007080,Karlshamn                 
+      46,1008080,Sölvesborg                
+       9,1101010,Riseberga                 
+      15,1101015,Ljungbyhed                
+       5,1101020,Färingtofta               
+       4,1101030,Oderljunga                
+      22,1101060,Fagerhult                 
+      15,1101070,Örkelljunga               
+       4,1101075,Örkelljunga Me            
+      20,1101090,Perstorp Kg               
+       4,1101100,Rya                       
+       4,1101110,Östra Ljungby             
+       1,1101120,Källna                    
+       2,1101130,Össjö                     
+       3,1101140,Tosjö                     
+       9,1101150,Munka-Ljungby             
+       1,1101155,Munka-Ljungby Me          
+       2,1101160,Tostarp                   
+       1,1101170,Gråmanstorp               
+      42,1101190,Klippan                   
+       2,1101200,Vedby                     
+       4,1102010,Höja                      
+       3,1102030,Ausås                     
+       4,1102040,Strövelstorp              
+       8,1102060,Västra Broby              
+      13,1102070,Kvidinge                  
+      32,1102090,Åstorp Kg                 
+       4,1102100,Västra Sönnarslöv         
+       5,1102110,Stenestad                 
+       9,1103010,Barkåkra                  
+       3,1103015,Skälderviken              
+       1,1103020,Rebbelberga               
+      10,1103030,Förslöv                   
+      13,1103040,Grevie                    
+       8,1103050,Hjärnarp                  
+       7,1103060,Västra Karup              
+       5,1103070,Torekov                   
+      17,1103090,Båstad                    
+       4,1103110,Hov                       
+      11,1104010,Hästveda                  
+       4,1104015,Hästveda Me               
+      32,1104020,Osby                      
+       1,1104026,Osby Me                   
+      16,1104030,Loshult                   
+      15,1104040,Östra Broby               
+      11,1104045,Broby                     
+       3,1104050,Emislöv                   
+      14,1104060,Glimåkra                  
+      10,1104065,Glimåkra Me               
+       6,1104070,Örkene                    
+       9,1104075,Lönsboda                  
+      28,1104100,Hjärsås                   
+      12,1104110,Knisslinge                
+       9,1104115,Knisslinge Me             
+       2,1104120,Kviinge                   
+       2,1104130,Gryt                      
+      16,1104140,Färlöv                    
+       5,1104150,Norra Strö                
+      13,1105010,Önnestad                  
+       2,1105015,Önnestads Me              
+       5,1105020,Sörby                     
+       6,1105030,Gumlösa                   
+      18,1105040,Vinslöv                   
+       5,1105050,Nävlinge                  
+       4,1105060,Norra Mellby              
+      15,1105066,Sösdala                   
+      10,1105070,Tjörnarp                  
+       4,1105100,Brönnestad                
+       5,1105110,Matteröd                  
+       3,1105120,Häglinge                  
+      11,1105130,Stoby                     
+       9,1105140,Vankiva                   
+       1,1105150,Norra Sandby              
+      12,1105160,Ignaberga                 
+       8,1105170,Finja                     
+      17,1105175,Tyringe                   
+       3,1105190,Vinslövs Kg               
+       6,1105210,Hörja                     
+       8,1105220,Röke                      
+      10,1105230,Torup                     
+       9,1105240,Norra Åkarp               
+      20,1105245,Bjärnum                   
+      24,1105250,Vittsjö                   
+       2,1105260,Visseltofta               
+       9,1105270,Verum                     
+       6,1105300,Farstorp                  
+      13,1106010,Näsum                     
+       6,1106020,Ivetofta                  
+       5,1106030,Ivö                       
+       4,1106040,Kiaby                     
+       6,1106050,Trolle-Ljungby            
+       5,1106060,Gualöv                    
+      12,1106070,Oppmanna                  
+      27,1106090,Åhus Kg                   
+      12,1106100,Vånga                     
+       7,1106110,Österslöv                 
+       6,1106120,Fjälkinge                 
+       2,1106130,Nymö                      
+      10,1106140,Fjälkestad                
+       6,1106150,Gustav Adolf              
+      10,1106160,Rinkaby                   
+      10,1106170,Åhus                      
+      13,1106190,Bromölla                  
+       8,1106200,Nosaby                    
+       6,1107010,Vä                        
+       6,1107020,Norra Åsum                
+       1,1107025,Vilan                     
+       8,1107030,Skepparslöv               
+       6,1107040,Västra Vram               
+      17,1107045,Tollarp                   
+       3,1107050,Östra Vram                
+      16,1107060,Köpinge                   
+       1,1107070,Lyngsjö                   
+       5,1107100,Äsphult                   
+      10,1107110,Linderöd                  
+      12,1107120,Träne                     
+       7,1107130,Djurröd                   
+       4,1107140,Huaröd                    
+       7,1107150,Vittskövle                
+      13,1107160,Degeberga                 
+       2,1107170,Hörröd                    
+       6,1107200,Maglehem                  
+      12,1107210,Everöd                    
+      11,1107220,Östra Sönnarslöv          
+       1,1108010,Ravlunda                  
+       9,1108020,Brösarp                   
+       4,1108030,Södra Mellby              
+       6,1108035,Kivik                     
+       7,1108040,Vitaby                    
+       1,1108047,Vitemölla                 
+       2,1108050,Andrarum                  
+       3,1108060,Eljaröd                   
+      14,1108070,Sankt Olof                
+       3,1108100,Fågeltofta                
+       7,1108110,Rörum                     
+       5,1109010,Glemminge                 
+       2,1109020,Tosterup                  
+       9,1109030,Hammenhög                 
+       1,1109040,Hannas                    
+       5,1109050,Östra Hoby                
+       6,1109055,Skillinge                 
+       4,1109060,Ingelstorp                
+       3,1109070,Valleberga                
+      28,1109090,Tomelilla Kg              
+      10,1109100,Löderup                   
+       3,1109110,Hörup                     
+       5,1109120,Tranås                    
+       5,1109130,Onslunda                  
+       7,1109140,Kverrestad                
+      10,1109150,Smedstorp                 
+       1,1109156,Smedstorps Me             
+       1,1109160,Tryde                     
+       1,1109170,Spjutstorp                
+       1,1109200,Ullstorp                  
+       3,1109210,Bollerup                  
+       1,1109220,Övraby                    
+       3,1109230,Benestad                  
+       4,1109240,Östra Herrestad           
+       2,1109250,Östra Ingelstad           
+      13,1109260,Borrby                    
+       6,1110015,Brantevik                 
+       1,1110020,Östra Nöbbelöv            
+       4,1110030,Gladsax                   
+       4,1110037,Baskemölla                
+       5,1110040,Östra Tommarp             
+      10,1110050,Järrestad                 
+      14,1110060,Stiby                     
+       6,1110070,Vallby                    
+       4,1110100,Bolshög                   
+       6,1110110,Östra Vemmerlöv           
+       2,1110120,Simris-Nöbbelöv           
+     117,1111080,Kristianstad              
+       3,1112080,Simrishamn                
+       0,1113080,Ängelholm                 
+       1,1114080,Hässleholm                
+       2,1201010,Västra Ingelstad          
+       2,1201020,Östra Grevie              
+       2,1201030,Mellan Grevie             
+       2,1201040,Södra Åkarp               
+       3,1201050,Gässie                    
+       2,1201070,Arrie                     
+      12,1201100,Hököpinge                 
+       2,1201110,Tygelsjö                  
+      14,1201120,Västra Klagstorp          
+       7,1201130,Bunkeflo                  
+       6,1201140,Fosie                     
+       1,1201150,Lockarp                   
+       5,1201160,Husie                     
+      28,1201190,Svedala Kg                
+       2,1201200,Södra Sallerup            
+       5,1201210,Oxie                      
+       1,1201220,Törringe                  
+       2,1201230,Västra Kärrstorp          
+       4,1201240,Glostorp                  
+       2,1202010,Hammarlöv                 
+       1,1202020,Västra Vemmerlöv          
+       4,1202030,Maglarp                   
+       1,1202040,Västra Tommarp            
+       3,1202050,Skegrie                   
+       4,1202060,Räng                      
+       2,1202070,Stora Hammar              
+       3,1202100,Håslöv                    
+       1,1202110,Bodarp                    
+      17,1202120,Vällinge                  
+       1,1202125,Vällinge Me               
+       3,1202130,Fuglie                    
+       9,1202140,Västra Alstad             
+       2,1202150,Fru Alstad                
+      13,1202160,Anderslöv                 
+       1,1202165,Anderslövs Me             
+       1,1202170,Bösarp                    
+       4,1202200,Gylle                     
+       1,1202210,Kyrkoköpinge              
+       2,1202220,Stora Slågarp             
+       1,1202230,Lilla Slågarp             
+       1,1202240,Dalköpinge                
+       8,1202250,Gislöv                    
+       5,1203010,Välluv                    
+       1,1203040,Bårslöv                   
+       4,1203050,Fjärestad                 
+      22,1203070,Ekeby                     
+      24,1203090,Bjuvs Kg                  
+       3,1203100,Hesslunda                 
+       3,1203110,Risekatslösa              
+       1,1203120,Kropp                     
+       8,1203130,Mörarp                    
+      10,1203140,Allerum                   
+       9,1203150,Flenninge                 
+       9,1203170,Väsby                     
+       6,1203200,Viken                     
+       9,1203210,Brunnby                   
+       1,1203215,Mölle                     
+       1,1203216,Arild                     
+       3,1203220,Farhult                   
+       7,1203230,Jonstorp                  
+      14,1203240,Välinge                   
+      15,1203250,Kattarp                   
+      18,1203260,Södra Vram                
+       8,1203270,Norra Vram                
+       9,1203310,Kågeröd                   
+       2,1203320,Halmstad                  
+       2,1203330,Ottarp                    
+      11,1203340,Kvistofta                 
+       3,1204020,Revinge                   
+       2,1204030,Hardeberga                
+      14,1204040,Södra Sandby              
+       2,1204051,Igelösa                   
+       1,1204060,Stävie                    
+       6,1204075,Furulund                  
+       1,1204110,Norra Nöbbelöv            
+       1,1204120,Västra Hoby               
+       3,1204130,Håstad                    
+       3,1204140,Borgeby                   
+       2,1204150,Stångby                   
+       3,1204160,Vallkärra                 
+       2,1204170,Hällestad                 
+       5,1204200,Dalby                     
+       1,1204205,Dalby Me                  
+       2,1204210,Bonderup                  
+       8,1204220,Fjälie                    
+       5,1204230,Flädie                    
+       1,1204250,Stora Råby                
+       1,1204260,Bjällerup                 
+       7,1204300,Veberöd                   
+       4,1204310,Blentarp                  
+       5,1204320,Gödelöv                   
+       3,1204330,Gårdstånga                
+       2,1205010,Lyngby                    
+       9,1205020,Genarp                    
+       3,1205030,Skabersjö                 
+       1,1205040,Knästorp                  
+       3,1205050,Tottarp                   
+       5,1205055,Åkarp                     
+       4,1205060,Kyrkheddinge              
+       1,1205070,Esarp                     
+      18,1205090,Lomma Kg                  
+       5,1205100,Bara                      
+       1,1205120,Görslöv                   
+       1,1205130,Burlöv                    
+      16,1205135,Arlöv                     
+       1,1205150,Flackarp                  
+       7,1205160,Brågarp                   
+       4,1205200,Hyby                      
+       1,1205226,Lomma Me                  
+       3,1205230,Uppåkra                   
+       6,1206010,Fulltofta                 
+       7,1206020,Östra Äspinge             
+      35,1206030,Hörby                     
+       3,1206040,Lyby                      
+       5,1206050,Östra Sallerup            
+       3,1206060,Svensköp                  
+      10,1206075,Löberöd                   
+       3,1206090,Hörby Kg                  
+       3,1206100,Norra Rörum               
+       4,1206110,Södra Rörum               
+      28,1206120,Hör                       
+       6,1206130,Munkarp                   
+      10,1206140,Bosjökloster              
+       7,1206150,Harlösa                   
+       3,1206160,Hammarlunda               
+       3,1206170,Östra Strö                
+       2,1206190,Höörs Kg                  
+       1,1206200,Skarhult                  
+       2,1206210,Gudmuntorp                
+       6,1206220,Hurva                     
+       2,1206240,Holmby                    
+       2,1206250,Borrlunda                 
+       2,1207010,Brandstad                 
+       2,1207020,Södra Ösum                
+      28,1207025,Sjöbo                     
+      11,1207030,Lövestad                  
+       2,1207035,Lövestads Me              
+       6,1207040,Öved                      
+       3,1207050,Vanstad                   
+       6,1207060,Tolånga                   
+       2,1207100,Björka                    
+       2,1207110,Våmb                      
+       2,1207120,Rödinge                   
+       3,1207130,Ramsåsa                   
+       9,1207140,Västerstad                
+       7,1207150,Östraby                   
+       4,1207160,Frenninge                 
+      11,1207170,Vollsjö                   
+       4,1207200,Östra Kärrstorp           
+       8,1207210,Långaröd                  
+       1,1207220,Sövde                     
+       7,1208010,Villie                    
+       1,1208020,Västra Nöbbelöv           
+       3,1208030,Sjörup                    
+       4,1208040,Katslösa                  
+      14,1208050,Balkåkra                  
+       4,1208060,Snårestad                 
+       5,1208070,Skårby                    
+       8,1209010,Stora Köpinge             
+       4,1209020,Stora Herrestad           
+       5,1209040,Öja                       
+       3,1209050,Hedeskoga                 
+       5,1209060,Sövestad                  
+       3,1209070,Bromma                    
+       1,1209100,Högestad                  
+       2,1209110,Baldringe                 
+       9,1209120,Bjäresjö                  
+       1,1210020,Hemmingsdynge             
+       2,1210030,Södra Åby                 
+      11,1210040,Östra Torp                
+       5,1210050,Lilla Issie               
+      10,1210070,Östra Klagstorp           
+      28,1210090,Skurups Kg                
+       9,1210100,Källstorp                 
+       9,1210110,Lilla Bedinge             
+       6,1210120,Gärdslöv                  
+       1,1210130,Önnarp                    
+       3,1210140,Tullstorp                 
+       4,1210150,Svenstorp                 
+       2,1210160,Östra Vemmenhög           
+       1,1210170,Västra Vämmenhög          
+      10,1210200,Skivarp                   
+       9,1210210,Örsjö                     
+       2,1210220,Solberga                  
+       2,1210230,Hassle-Bösarp             
+       4,1210240,Slimminge                 
+       1,1210260,Grönby                    
+      12,1210370,Börringe                  
+      10,1211010,Sankt Ibb                 
+       8,1211030,Glumslöv                  
+       2,1211040,Herslöv                   
+       8,1211050,Säby                      
+       1,1211060,Vadensjö                  
+       4,1211070,Örja                      
+       5,1211100,Asmundtorp                
+       4,1211110,Tofta                     
+       7,1211120,Billeberga                
+       1,1211130,Tirup                     
+       7,1211160,Sireköpinge               
+      22,1211170,Svalöv                    
+       5,1212010,Annelöv                   
+       2,1212020,Norrvidinge               
+       4,1212040,Torrlösa                  
+       2,1212050,Norra Skrevlinge          
+      17,1212055,Teckomatorp               
+       5,1212060,Reslöv                    
+      14,1212065,Marieholm                 
+       3,1212100,Trollenäs                 
+       3,1212110,Bosarp                    
+       3,1212120,Västra Strö               
+       4,1212130,Konga                     
+       4,1212140,Ask                       
+      10,1212150,Billinge                  
+       5,1212160,Röstånga                  
+       4,1212170,Hallaröd                  
+      11,1212200,Stehag                    
+       2,1213020,Västra Sallerup           
+       5,1213040,Örtofta                   
+       4,1213050,Lilla Harrie              
+       4,1213060,Stora Harrie              
+       1,1213100,Hög                       
+      29,1213110,Kävlinge                  
+       4,1213120,Västra Karleby            
+       3,1213130,Saxtorp                   
+       3,1213140,Södervidinge              
+       1,1213160,Dagstorp                  
+       4,1213170,Barsebäck                 
+       5,1213200,Hofterup                  
+       9,1213210,Löddeköpinge              
+     298,1214080,Malmö                     
+     101,1215080,Lund                      
+      94,1216080,Landskrona                
+     192,1217080,Hälsingborg               
+      52,1218080,Eslöv                     
+      72,1219080,Ystad                     
+      66,1220080,Trälleborg                
+      10,1221080,Skanör med Falsterbo      
+      36,1222080,Höganäs                   
+      27,1301010,Veinge                    
+       2,1301020,Tjärby                    
+      12,1301030,Knäred                    
+       6,1301040,Laholms Lk                
+      10,1301050,Ränneslöv                 
+       5,1301060,Ysby                      
+       6,1301070,Östra Karup               
+       1,1301075,Brännö                    
+       7,1301100,Skummeslöv                
+       7,1301110,Hasslöv                   
+       4,1301120,Våxtorp                   
+       9,1301130,Hishult                   
+      13,1302010,Eldsberga                 
+       7,1302020,Tönnersjö                 
+      17,1302030,Snöstorp                  
+       9,1302040,Trönninge                 
+      33,1302050,Enslöv                    
+      13,1302060,Bredared                  
+      37,1302070,Torup                     
+      30,1302090,Oskarströms Kg            
+       2,1303020,Torup Halmstads Hd        
+       9,1303030,Kinnared                  
+       4,1303040,Övraby                    
+       5,1303050,Holm                      
+       9,1303060,Söndrum                   
+       7,1303070,Vapnö                     
+      21,1303100,Harplinge                 
+      10,1303110,Steninge                  
+      25,1303120,Getinge                   
+       4,1303140,Slättåkra                 
+       9,1303150,Kvibille                  
+      10,1304010,Slöinge                   
+       2,1304020,Eftra                     
+       3,1304030,Skrea                     
+       8,1304040,Årstad                    
+       4,1304050,Asige                     
+       2,1304070,Vessige                   
+       3,1304110,Drängsered                
+       1,1304120,Krogsered                 
+       7,1305010,Gällared                  
+      12,1305020,Gunnarp                   
+       4,1305030,Ljungby                   
+      10,1305040,Alfshög                   
+       7,1305050,Vinberg                   
+       6,1305060,Stafsinge                 
+       7,1305070,Morup                     
+       3,1305100,Fagerred                  
+       1,1305110,Källsjö                   
+      12,1305120,Ullared                   
+       3,1305130,Okome                     
+       6,1305140,Köinge                    
+       2,1305150,Svartrå                   
+       2,1305160,Sibbarp                   
+       4,1305170,Dagsås                    
+       5,1306010,Grimeton                  
+       7,1306020,Rolfstorp                 
+       2,1306040,Stamnared                 
+       2,1306050,Skällinge                 
+      16,1306070,Tvååker                   
+       2,1306100,Spannarp                  
+       3,1306110,Hunnestad                 
+       1,1306120,Gödestad                  
+       7,1306130,Lindberg                  
+       1,1306140,Torpa                     
+       7,1306150,Träslöv                   
+       3,1307010,Värö                      
+       6,1307030,Veddige                   
+       2,1307040,Ås                        
+       5,1308010,Ölmevalla                 
+       6,1308030,Frillesås                 
+       1,1308050,Idala                     
+       7,1308060,Fjärås                    
+       3,1308100,Hanhals                   
+       5,1308110,Tölö                      
+      14,1308120,Lindome                   
+       5,1308130,Älvsåker                  
+      11,1308140,Onsala                    
+       8,1308150,Vallda                    
+       7,1308160,Släp                      
+     131,1309080,Halmstad                  
+      36,1310080,Laholm                    
+      70,1311080,Falkenberg                
+      75,1312080,Varberg                   
+      27,1313080,Kungsbacka                
+       6,1401050,Kållered                  
+      15,1401060,Råda                      
+      10,1401070,Styrsö                    
+       5,1402010,Rödbo                     
+       3,1402020,Säve                      
+       1,1402030,Backa                     
+       1,1402050,Torslanda                 
+      17,1402060,Öckerö                    
+       9,1402063,Hönö                      
+       1,1402064,Källö-Knipplan            
+       6,1402065,Hälsö                     
+       6,1402066,Kalvsund                  
+       1,1402067,Knipplan                  
+      11,1404020,Landvetter                
+      14,1404030,Partille                  
+       8,1404036,Jonsered                  
+       4,1404037,Sävedalen                 
+       6,1404040,Härryda                   
+       3,1405010,Kareby                    
+       7,1405020,Romelanda                 
+       8,1405030,Ytterby                   
+       6,1405040,Torsby                    
+       5,1405050,Harestad                  
+       4,1405060,Lycke                     
+       6,1406010,Solberga                  
+       1,1406020,Hålta                     
+       4,1406030,Jörlanda                  
+       3,1406040,Spekeröd                  
+      15,1406050,Ucklum                    
+       4,1406060,Ödsmål                    
+      10,1406075,Stenungsund               
+       7,1407010,Forshälla                 
+       1,1407020,Resteröd                  
+      18,1407030,Ljung                     
+       3,1407040,Grinneröd                 
+      13,1408010,Hjärtum                   
+       6,1408020,Västerlanda               
+       8,1409010,Myckleby                  
+       7,1409020,Torp                      
+       3,1409030,Långelanda                
+       5,1409040,Stala                     
+       4,1410010,Tegneby                   
+       5,1410020,Röra                      
+       9,1410030,Morlanda                  
+       2,1410035,Ellö                      
+       3,1410036,Hällevikstrand            
+       1,1410037,Stocken                   
+       1,1410038,Edshultshall              
+       3,1410040,Skaftö                    
+       4,1410050,Fiskebäckskil             
+       3,1410060,Grundsund                 
+       2,1410070,Gullholmen                
+       2,1410100,Käringön                  
+       6,1410110,Mollösund                 
+      16,1411010,Stenkyrka                 
+       8,1411014,Skärhamn                  
+       6,1411020,Klädesholmen              
+       4,1411030,Valla                     
+       2,1411040,Klövedal                  
+       2,1411048,Kyrkesund                 
+       1,1411057,Tjörnekalv Rönnäng        
+       4,1411058,Åstol Rönnäng             
+       3,1412010,Lale-Ryr                  
+       6,1412020,Bäve                      
+       2,1412030,Skredsvik                 
+       3,1412040,Herrestad                 
+       1,1412050,Högås                     
+       3,1412060,Bokenäs                   
+      21,1413010,Foss                      
+       9,1413020,Svarteborg                
+       1,1413030,Håby                      
+      11,1414010,Bro                       
+      26,1414020,Brastad                   
+      18,1414030,Lyse                      
+       3,1415010,Krokstad                  
+       1,1415020,Sanne                     
+       5,1415030,Hede                      
+       9,1416010,Tossene                   
+      16,1416011,Hunnebostrand             
+       6,1416015,Bovallstrand              
+       7,1416017,Ulebergshamn              
+      11,1416020,Askum                     
+       5,1416026,Hovenäset                 
+       2,1416027,Väjern                    
+       6,1416030,Kungshamn                 
+      14,1416036,Gravarne och Bäckevik     
+       4,1416038,Tången                    
+      11,1416040,Malmön                    
+       5,1416050,Bärfendal                 
+       7,1416060,Smögen                    
+       1,1416066,Hasselösund Smögen        
+      30,1417010,Skee                      
+       9,1417015,Björneröd och Kroken      
+      13,1417020,Tjärnö                    
+      10,1417030,Näsinge                   
+      10,1417040,Hogdal                    
+       7,1417050,Lommeland                 
+      26,1418010,Kville                    
+      10,1418011,Fjällbacka                
+       4,1418020,Svenneby                  
+       7,1418030,Bottna                    
+      24,1419010,Tanum                     
+       5,1419016,Sannäs                    
+       2,1419017,Havstenssund              
+       5,1419020,Lur                       
+      12,1419090,Gräbbestads Kg            
+       8,1420010,Naverstad                 
+       2,1420020,Mo                        
+     714,1421080,Göteborg                  
+      23,1422080,Kungälv                   
+      16,1423080,Marstrand                 
+      55,1424080,Lysekil                   
+     103,1425080,Uddevalla                 
+      49,1426080,Strömstad                 
+      54,1427080,Mölndal                   
+      24,1501010,Västra Tunhem             
+       4,1501020,Norra Björke              
+      10,1501030,Väne-Åsaka                
+       9,1501040,Gärdhem                   
+       2,1501070,Väne-Ryr                  
+       8,1502010,Stora Mellby              
+       2,1502020,Magra                     
+      18,1502030,Erska                     
+       2,1502040,Lagmansered               
+       1,1503010,Rommele                   
+      17,1503020,Fors                      
+       9,1503030,Upphärad                  
+       1,1503050,Åsbräcka                  
+      35,1503090,Lilla Edets Kg            
+       7,1504010,Skepplanda                
+       4,1504020,Hålanda                   
+       9,1504030,Ale-Skövde                
+      14,1504040,Sankt Peter               
+       5,1504050,Tunge                     
+      28,1504060,Starrkärr                 
+       5,1504070,Kilanda                   
+      24,1504100,Nödinge                   
+       7,1504110,Östad                     
+       7,1505010,Stora Lundby              
+      18,1505020,Skallsjö                  
+      23,1505030,Lerum                     
+      18,1505040,Angered                   
+      10,1505050,Bergum                    
+      25,1506010,Herrljunga                
+       4,1506015,Herrljunga Me             
+       5,1506030,Remmene                   
+       4,1506040,Fölene                    
+       2,1506050,Eggvene                   
+      21,1506060,Algutstorp                
+      24,1506065,Vårgårda                  
+       1,1506100,Tumberg                   
+       4,1506110,Södra Härene              
+       1,1506122,Landa                     
+       6,1506130,Hol                       
+       2,1506140,Siene                     
+       2,1506150,Horla                     
+       2,1506170,Lena                      
+       3,1506200,Bergstena                 
+       2,1506210,Fullestad                 
+      10,1506220,Långared                  
+       3,1506230,Alingsås och Rödene       
+       5,1506231,Alingsås Lk               
+       3,1506232,Rödene                    
+       3,1506240,Bälinge                   
+       4,1506250,Ödenäs                    
+       9,1506260,Hemsjö                    
+       1,1507010,Södra Björke              
+       5,1507020,Vesene                    
+       2,1507030,Grude                     
+       1,1507040,Jällby                    
+      18,1507050,Hudene                    
+       4,1507060,Hällestad                 
+       4,1507070,Skölvene                  
+       2,1507100,Hov                       
+       5,1507120,Källunga                  
+       1,1507130,Eriksberg                 
+       2,1507150,Mjäldrunga                
+       1,1507160,Od                        
+       3,1507170,Öra                       
+       3,1507200,Alboga                    
+       1,1507210,Molla                     
+       4,1507220,Nårunga                   
+       4,1507230,Ljur                      
+       1,1507250,Kvinnestad                
+       2,1507260,Asklanda                  
+       8,1508010,Rångedala                 
+      23,1508020,Toarp                     
+       3,1508030,Äspered                   
+       2,1508040,Tärby                     
+       4,1508050,Varnum                    
+       8,1508060,Brämhult                  
+       1,1508070,Gingri                    
+      11,1508100,Södra Ving                
+       3,1508110,Härna                     
+       3,1508120,Fänneslunda               
+       1,1508140,Hällstad                  
+       1,1508150,Murum                     
+       3,1508160,Södra Vånga               
+       1,1508170,Möne                      
+       3,1508200,Kärråkra                  
+       7,1509010,Seglora                   
+      17,1509020,Frissla                   
+      18,1509030,Kinnarumma                
+       3,1509040,Skepphult                 
+       8,1509050,Örby                      
+       1,1509070,Torestorp                 
+      31,1509090,Kinna Kg                  
+       2,1509100,Öxabäck                   
+       1,1509120,Kungsäter                 
+       1,1509150,Karl Gustav               
+       2,1509160,Istorp                    
+      11,1509190,Skene Kg                  
+       8,1509200,Horred                    
+       2,1509210,Sätila                    
+       1,1509220,Hyssna                    
+       5,1509230,Berghem                   
+       2,1509240,Hajom                     
+       1,1509250,Surteby                   
+       2,1509270,Fotskäl                   
+      17,1510010,Bollebygd                 
+      20,1510020,Björketorp                
+       3,1510030,Töllsjö                   
+      12,1511010,Fristad                   
+       5,1511020,Borgstena                 
+       3,1511030,Torpa                     
+       4,1511040,Bredared                  
+       2,1511050,Tämta                     
+       3,1511060,Vänga                     
+       8,1511070,Sandhult                  
+       5,1512010,Norra Åsarp               
+       4,1512020,Kölaby                    
+       1,1512030,Solberga                  
+       7,1512050,Blidsberg                 
+       6,1512060,Dalum                     
+       2,1512070,Humla                     
+       8,1512100,Timmele                   
+       1,1512110,Vist                      
+       3,1512130,Böne                      
+       3,1512140,Knätte                    
+       7,1512150,Liared                    
+       4,1512160,Kölingared                
+       3,1512170,Fivlered                  
+       3,1512200,Hössna                    
+       2,1512210,Gullered                  
+       4,1512220,Strängsered               
+       6,1513010,Kalv                      
+       4,1513020,Mårdaklev                 
+       3,1513030,Håcksvik                  
+       3,1513040,Östra Frölunda            
+       8,1513050,Mjöbäck                   
+       5,1513060,Holsljunga                
+       6,1513070,Älvsered                  
+      22,1513090,Svenljunga Kg             
+       2,1513110,Ullasjö                   
+       7,1513120,Örsås                     
+       4,1513130,Revesjö                   
+       1,1513140,Redslared                 
+       7,1513150,Sexdrega                  
+       5,1513160,Ljushult                  
+       2,1513170,Roasjö                    
+       7,1513200,Hillared                  
+       8,1513210,Länghem                   
+       7,1513220,Dannike                   
+       1,1513230,Månstad                   
+      11,1513240,Södra Åsarp               
+      13,1513250,Gällstad                  
+       4,1513260,Grönahög                  
+       7,1513270,Södra Säm                 
+       1,1513300,Finnekumla                
+       4,1513310,Tvärred                   
+       5,1513320,Marbäck                   
+       6,1513330,Dalstorp                  
+       1,1513340,Hulared                   
+       2,1513350,Ölsremma                  
+       2,1513360,Ljungsarp                 
+       4,1513370,Nittorp                   
+      21,1513400,Tranemo                   
+       4,1513410,Mossebo                   
+       5,1513420,Ambjörnarp                
+      11,1513430,Sjötofta                  
+       7,1514010,Bolstad                   
+       3,1514020,Grinstad                  
+       4,1514030,Gestad                    
+      11,1514040,Erikstad                  
+      18,1514050,Frändefors                
+      19,1514060,Brålanda                  
+       3,1514065,Brålanda Me               
+       5,1514070,Sundals-Ryr               
+       6,1515010,Ör                        
+      14,1515020,Gunnarsnäs                
+       6,1515030,Dalskog                   
+      26,1515040,Skållerud                 
+       1,1515060,Järn                      
+      34,1515090,Mellerud                  
+       5,1516010,Torp                      
+       2,1516020,Valbo-Ryr                 
+      16,1516030,Färgelanda                
+      12,1516040,Ödeborg                   
+      10,1516050,Högsäter                  
+       1,1516060,Rännelanda                
+       1,1516070,Råggärd                   
+       1,1516110,Järbo                     
+       7,1517010,Rölanda                   
+       1,1517020,Gesäter                   
+      15,1517030,Dals-Ed                   
+      11,1517035,Ed                        
+       6,1517040,Töftedal                  
+      10,1517050,Nössemark                 
+      10,1517060,Håbol                     
+       9,1517070,Vårvik                    
+      32,1517090,Bengtsfors                
+      24,1517100,Torrskog                  
+      29,1517110,Laxarby                   
+      32,1517120,Steneby                   
+       9,1517130,Ärtemark                  
+       8,1517140,Ödsköld                   
+      21,1517150,Bäcke                     
+       4,1517160,Tisselskog                
+      10,1518010,Edsleskog                 
+       2,1518020,Mo                        
+      20,1518030,Fröskog                   
+       1,1518040,Åmåls Lk                  
+      14,1518050,Tösse                     
+       4,1518060,Tydje                     
+      22,1518070,Ånimskog                  
+      97,1519080,Vänersborg                
+      63,1520080,Alingsås                  
+     125,1521080,Borås                     
+      46,1522080,Ulricehamn                
+      52,1523080,Åmål                      
+      91,1524080,Trollhättan               
+       1,1601010,Ekby                      
+       7,1601020,Utby                      
+       8,1601030,Ullervad                  
+       6,1601040,Ek                        
+       7,1601050,Leksberg                  
+       5,1601060,Björsäter                 
+       8,1601070,Torsö                     
+      28,1601090,Töreboda                  
+       1,1601100,Hassle Enåsa Kap och Berga
+       6,1601101,Hassle                    
+       2,1601103,Berga                     
+       2,1601110,Färed                     
+       6,1601120,Fredsberg                 
+       6,1601140,Bäck                      
+      20,1601150,Lyrestad                  
+      23,1601160,Amnehärad                 
+      16,1601165,Gullspång                 
+      27,1601170,Hova                      
+      21,1601200,Finnerödja                
+       9,1601210,Älgarås                   
+       4,1601220,Horn                      
+       1,1601230,Frösve                    
+       3,1601240,Säter                     
+       2,1601250,Odensåker                 
+       1,1601270,Låstad                    
+       3,1601320,Götlunda                  
+      10,1601325,Tidan                     
+       3,1601330,Väring                    
+       1,1601340,Locketorp                 
+       7,1601350,Berg                      
+       7,1601360,Lerdala                   
+       3,1601370,Böja                      
+      13,1601400,Timmersdala               
+       6,1601410,Fägre                     
+       1,1601420,Trästena                  
+      36,1601430,Undenäs                   
+       5,1601440,Halna                     
+      10,1601450,Tived                     
+      14,1601460,Ransberg                  
+      14,1601470,Mölltorp                  
+      12,1601475,Mölltorps Me              
+      27,1601500,Karlsborg                 
+       7,1601510,Bällefors                 
+       6,1601520,Beateberg                 
+       2,1601530,Ekeskog                   
+       1,1601540,Hjälstad                  
+      11,1601545,Moholm                    
+       1,1601550,Mo                        
+       2,1601560,Vad                       
+       1,1601570,Svenneby                  
+       1,1602020,Öm                        
+       3,1602030,Ryd                       
+       7,1602050,Norra Kyrketorp           
+       4,1602060,Våmb                      
+       9,1602070,Sventorp                  
+      26,1602090,Tibro Kg                  
+       4,1602110,Varola                    
+       9,1602120,Värsås                    
+       5,1602140,Mofalla                   
+       6,1602150,Grevbäck                  
+       4,1602160,Bredvik                   
+       6,1602170,Norra Fågelås             
+       2,1602200,Södra Fågelås             
+       5,1603010,Guldhem                   
+       8,1603040,Torbjörntorp              
+       3,1603050,Friggeråker               
+       1,1603070,Bjurum                    
+       3,1603100,Broddetorp                
+       1,1603110,Hornborga                 
+       2,1603130,Segerstad                 
+       8,1603140,Håkantorp                 
+       3,1603150,Valtorp                   
+      18,1603160,Stenstorp                 
+       3,1603165,Stenstorps Me             
+       5,1603210,Dala                      
+       3,1603230,Borgunda                  
+       2,1603240,Sjogerstad                
+       1,1603250,Rådene                    
+       1,1603260,Ljunghem                  
+       2,1603270,Edåsa                     
+       1,1603300,Bjärka                    
+       2,1604030,Tiarp                     
+       4,1604040,Varv                      
+       7,1604050,Kungslena                 
+       1,1604060,Hömb                      
+      15,1604070,Dimbo                     
+       1,1604100,Ottravad                  
+       4,1604110,Acklinga                  
+       8,1604130,Baltak                    
+       7,1604140,Fröjared                  
+       8,1604150,Fridene                   
+      12,1604160,Korsberga                 
+       6,1604170,Daretorp                  
+       3,1604200,Velinge                   
+       7,1604210,Brandstorp                
+       2,1604220,Hångsdala                 
+       2,1604230,Skörstorp                 
+      23,1604250,Habo                      
+       2,1604260,Gustav Adolf              
+      13,1604270,Sandhem                   
+      14,1604320,Nykyrka                   
+       4,1604340,Bjurbäck                  
+       2,1604350,Valstad                   
+       1,1604360,Vättak                    
+       2,1604410,Yllestad                  
+       1,1604430,Näs                       
+      10,1604440,Vartofta-Åsaka            
+       1,1604450,Kälvene                   
+       2,1604460,Slöta                     
+       7,1604470,Karleby                   
+       2,1604510,Luttra                    
+      10,1605010,Kinnevad                  
+       3,1605030,Börstig                   
+       2,1605040,Brismene                  
+       3,1606010,Saleby                    
+       2,1606020,Härjevad                  
+       3,1606040,Jung                      
+       2,1606050,Fyrunga                   
+       5,1606060,Öttum                     
+       3,1606070,Vinköl                    
+       5,1606100,Marum                     
+       7,1606110,Norra Vånga               
+       3,1606120,Edsvära                   
+       5,1606130,Kvänum                    
+       4,1606135,Kvänums Me                
+       1,1606140,Synnerby                  
+       2,1606160,Västra Gerum              
+       3,1606210,Härlunda                  
+       4,1607010,Vilske-Kleva              
+       1,1607020,Ullene                    
+       5,1607030,Gökhem                    
+       4,1607040,Marka                     
+       1,1607050,Sörby                     
+       5,1607060,Floby                     
+       1,1607070,Göteve                    
+       3,1607120,Grolanda                  
+      15,1608015,Axvall                    
+       7,1608020,Stenum                    
+       4,1608050,Eggby                     
+       4,1608060,Istrum                    
+       1,1608070,Öglunda                   
+       4,1608100,Norra Lundby              
+       4,1608140,Varnhem                   
+       1,1609010,Särestad                  
+       2,1609030,Håle                      
+       6,1609040,Flo                       
+       4,1609060,Sal                       
+       3,1609070,Vänersnäs                 
+      10,1609100,Tun                       
+       1,1609110,Karaby                    
+       5,1609120,Friel                     
+       1,1610010,Tengene                   
+       1,1610020,Trökörna                  
+       1,1610030,Malma                     
+       2,1610050,Hyringa                   
+       5,1610060,Främmestad                
+      21,1610090,Grästorp                  
+       1,1610100,Levene                    
+       1,1610110,Flakeberg                 
+       5,1610130,Sparlösa                  
+       2,1611020,Lekåsa                    
+       1,1611030,Barne-Åsaka               
+       2,1611040,Fåglum                    
+       3,1611050,Kyrkås                    
+      10,1611060,Essunga                   
+      16,1611065,Nossebro                  
+       3,1611070,Ryda                      
+      28,1611090,Vara Kg                   
+       3,1611100,Södra Kedum               
+       1,1611110,Naum                      
+       2,1611150,Önum                      
+       7,1612010,Larv                      
+       1,1612020,Längjum                   
+       6,1612030,Tråvad                    
+       6,1612040,Södra Lundby              
+      10,1612075,Vedum                     
+       8,1613010,Källby                    
+       4,1613020,Broby                     
+       1,1613030,Skeby                     
+       2,1613040,Hangelösa                 
+       7,1613050,Husaby                    
+       5,1613065,Lundsbrunn                
+       8,1613100,Norra Härene              
+       5,1613120,Sävare                    
+       2,1613130,Lindärva                  
+       2,1613140,Hasslösa                  
+      11,1614010,Medelplana                
+      19,1614030,Österplana                
+       1,1614040,Kestad                    
+       9,1614050,Kinne-Kleva               
+      24,1614070,Götene                    
+       3,1614100,Holmestad                 
+       1,1614120,Ledsjö                    
+      12,1614130,Forshem                   
+       9,1614140,Fullösa                   
+       3,1614150,Kinne-Vedum               
+      10,1614160,Lugnås                    
+       1,1614170,Bredsäter                 
+      10,1615010,Järpås                    
+       2,1615030,Häggesled                 
+       2,1615040,Tådene                    
+       2,1615060,Lavad                     
+       1,1615070,Norra Kedum               
+       8,1615100,Örslösa                   
+       1,1615120,Gillstad                  
+       3,1615140,Råda                      
+       2,1615150,Kållands-Åsaka            
+       4,1615160,Mellby                    
+       2,1615170,Rackeby                   
+       1,1615200,Skalunda                  
+       3,1615210,Sunnersberg               
+       5,1615220,Gösslunda                 
+      11,1615240,Otterstad                 
+      52,1616080,Mariestad                 
+      72,1617080,Lidköping                 
+      51,1618080,Skara                     
+      74,1619080,Skövde                    
+      43,1620080,Hjo                       
+      46,1621080,Tidaholm                  
+      67,1622080,Falköping                 
+      60,1701010,Färnebo                   
+      22,1701020,Nordmark                  
+      31,1701030,Rämen                     
+      13,1701035,Lesjöfors                 
+      17,1701040,Brattfors                 
+      15,1701050,Gåsborn                   
+      26,1701060,Kroppa                    
+      16,1701070,Lungsund                  
+      15,1701090,Storfors                  
+      27,1702010,Nyed                      
+      18,1702015,Molkom                    
+       9,1702020,Älvsbacka                 
+      17,1703010,Ölme                      
+       7,1703020,Varnum                    
+      29,1704010,Väse                      
+      28,1704020,Alster                    
+      22,1704030,Östra Fågelvik            
+      18,1705010,Visnum                    
+      16,1705015,Björneborg                
+       3,1705020,Visnums-Kil               
+       7,1705030,Rudskoga                  
+       5,1705050,Södra-Råda                
+      25,1706010,Stora Kil                 
+      17,1706015,Kils Me                   
+      24,1706020,Frykerud                  
+      14,1706030,Övre Ullerud              
+      28,1706041,Munkfors                  
+      17,1706042,Ransäters Förs            
+      29,1706050,Nedre Ullerud             
+      16,1706055,Deje                      
+       5,1706090,Munkfors Kg               
+       1,1707010,Karlstads Lk              
+      25,1707020,Grava                     
+      28,1707090,Hammarö Kg                
+      25,1707190,Forshaga Kg               
+      41,1708010,Nor                       
+       7,1708020,Segerstad                 
+      18,1708040,Borgvik                   
+      36,1708050,Ed                        
+      42,1708090,Grums Kg                  
+      28,1709010,Gillberga                 
+      15,1709020,Långserud                 
+      43,1709030,Stavnäs                   
+       8,1709040,Högerud                   
+      61,1709050,Glava                     
+       9,1709060,Värmskog                  
+      16,1709070,Svanskog                  
+       3,1710010,Millesvik                 
+       5,1710020,Eskilsäter                
+       4,1710030,Ölserud                   
+       9,1710040,Botilsäter                
+       4,1710050,By                        
+      11,1710060,Bro                       
+       6,1710070,Södra Ny                  
+       4,1710100,Huggenäs                  
+       7,1710110,Kila                      
+       4,1710120,Tveta                     
+      25,1711010,Sillerud                  
+      31,1711020,Holmedal                  
+       5,1711030,Västra Fågelvik           
+      16,1711040,Töcksmark                 
+      10,1711050,Östervallskog             
+      22,1711060,Karlanda                  
+      20,1711070,Blomskog                  
+      20,1711090,Årjängs Kg                
+       4,1711100,Trankil                   
+       9,1711110,Silbodal                  
+      19,1711120,Skillingmark              
+      30,1711130,Järnskog                  
+      27,1712010,Köla                      
+      28,1712020,Eda                       
+      27,1712026,Charlottenberg            
+      14,1712027,Åmotfors                  
+      17,1712030,Arvika Lk                 
+      18,1712040,Ny                        
+      18,1712050,Älgå                      
+      31,1712060,Gunnarskog                
+       7,1712070,Bogen                     
+      32,1712100,Brunskog                  
+      13,1712110,Mangskog                  
+      19,1712120,Boda                      
+      19,1713010,Norra Ny                  
+      11,1713020,Nyskoga                   
+      37,1713030,Dalby                     
+      21,1713040,Södra Finnskoga           
+      13,1713050,Norra Finnskoga           
+      42,1713060,Ekshärad                  
+      48,1713070,Norra Råda                
+      12,1713100,Sunnemo                   
+      28,1713110,Gustav Adolf              
+      47,1714010,Sunne                     
+      19,1714020,Östra Emtervik            
+       7,1714030,Västra Emtervik           
+      29,1714040,Gräsmark                  
+      17,1714050,Lysvik                    
+      32,1714060,Fryksände                 
+      30,1714066,Torsby                    
+      21,1714070,Östmark                   
+      49,1714090,Sunne Kg                  
+      13,1714100,Lekvattnet                
+      17,1714110,Vitsand                   
+     130,1715080,Karlstad                  
+      80,1716080,Kristinehamn              
+      50,1717080,Filipstad                 
+     106,1718080,Arvika                    
+      35,1719080,Hagfors                   
+      49,1720080,Säffle                    
+      12,1801010,Mosjö                     
+       9,1801020,Täby                      
+      18,1801030,Vintrosa                  
+      17,1801040,Tysslinge                 
+      25,1801050,Kil                       
+       5,1801060,Gräve                     
+       4,1801070,Eker                      
+       3,1801100,Längbro                   
+      18,1801130,Axberg                    
+       7,1801140,Hovsta                    
+      15,1802010,Glanshammar               
+       9,1802020,Rinkaby                   
+      11,1802030,Götlunda                  
+       7,1802040,Lillkyrka                 
+       7,1802050,Ödeby                     
+      28,1803010,Asker                     
+      14,1803020,Lännäs                    
+      24,1803030,Stora Mellösa             
+      12,1804010,Norrbyås                  
+      14,1804020,Ekeby                     
+       9,1804030,Gällersta                 
+      24,1804040,Svennevad                 
+      15,1804050,Bo                        
+       9,1804060,Sköllersta                
+      14,1804065,Pålsboda                  
+      38,1805010,Hallsberg                 
+      65,1805030,Lerbäck                   
+      20,1805040,Kumla Lk                  
+       1,1805090,Hallsbergs Kg             
+      22,1806010,Hardemo                   
+       8,1806020,Kräklinge                 
+       6,1807010,Hackvad                   
+      11,1807020,Viby                      
+       5,1807025,Östansjö                  
+        ,1807026,Vretstorp                 
+       1,1807030,Ramundeboda               
+      36,1807090,Laxå                      
+       6,1808010,Edsberg                   
+       6,1808020,Knista                    
+      21,1808025,Fjugesta                  
+      21,1808030,Hidinge                   
+      25,1808040,Kvistbro                  
+      11,1808045,Mullhyttan                
+       4,1808050,Tångeråsa                 
+      15,1808060,Skagershult               
+      22,1808070,Nysund                    
+      10,1809010,Askersunds Lk             
+      40,1809020,Hammar                    
+       8,1809030,Snavlunda                 
+      43,1810010,Nora Lk                   
+      15,1810020,Viker                     
+      13,1810030,Järnboås                  
+      26,1810040,Hjulsjö                   
+      17,1811020,Bjurtjärn                 
+       1,1811030,Degerfors                 
+      43,1811090,Degerfors Kg              
+      20,1812010,Grythyttan                
+      37,1812015,Grythyttans Me            
+      64,1812090,Hällefors Kg              
+      44,1813010,Lindesbergs Lk            
+      19,1813011,Guldsmedshyttan           
+      43,1813020,Ramsberg                  
+      55,1813030,Fellingsbro               
+      86,1814010,Ljusnarsberg              
+       9,1814011,Hörken                    
+      38,1814090,Kopparberg                
+       1,1815015,Fellingsbro Me            
+      17,1815020,Näsby                     
+      20,1815025,Frövi                     
+      12,1815030,Ervalla                   
+     169,1816080,Örebro                    
+      28,1817080,Askersund                 
+      51,1818080,Nora                      
+      51,1819080,Lindesberg                
+      37,1820080,Kumla                     
+      95,1821080,Karlskoga                 
+      22,1901010,Munktorp                  
+      28,1901020,Kolbäck                   
+       5,1901040,Säby                      
+       3,1901050,Berg                      
+       8,1901060,Rytterne                  
+      36,1901070,Ramnäs                    
+      26,1901090,Hallstahammar Kg          
+      31,1901100,Sura                      
+       8,1902010,Västerås-Barkarö          
+      11,1902020,Dingtuna                  
+       9,1902030,Lillhärad                 
+       6,1903010,Badelunda                 
+       2,1903020,Hubbo                     
+       8,1903030,Irsta                     
+       5,1903040,Kungsåra                  
+       6,1903050,Kärrbo                    
+      14,1903060,Tillberga                 
+      15,1904010,Björksta                  
+       8,1904020,Tortuna                   
+       4,1904030,Sevalla                   
+       2,1904040,Ängsö                     
+      55,1905010,Skinnskatteberg           
+      13,1905020,Gunnilbo                  
+       8,1905030,Hed                       
+       4,1906010,Arboga Lk                 
+       6,1906020,Säterbo                   
+       4,1906040,Kungs-Barkarö             
+       9,1906050,Björskog                  
+       3,1906070,Kung Karl                 
+      31,1906090,Kungsör                   
+       4,1906100,Torpa                     
+       7,1906110,Himmeta                   
+       6,1906130,Medåker                   
+      16,1906140,Odensvi                   
+       7,1906150,Västra Skedvi             
+       2,1906161,Bro                       
+      30,1906170,Kolsva                    
+      37,1907010,Västerfärnebo             
+      28,1908010,Norberg                   
+      17,1908030,Karbenning                
+      14,1908040,Västervåla                
+      22,1908090,Norbergs Kg               
+       3,1909010,Fläckebo                  
+      15,1909020,Haraker                   
+      10,1909030,Romfartuna                
+      21,1909040,Skultuna                  
+       1,1909050,Skerike                   
+      14,1910010,Torstuna                  
+       4,1910020,Härnevi                   
+       8,1910030,Österunda                 
+      26,1910040,Vittinge                  
+      10,1911010,Västerlövsta              
+      20,1911015,Heby                      
+      11,1911020,Enåker                    
+       5,1911030,Norrby                    
+      13,1911040,Tärna                     
+      16,1911050,Simtuna                   
+      10,1911060,Altuna                    
+      10,1911070,Frösthult                 
+       3,1912010,Kumla                     
+      11,1912020,Kila                      
+      12,1912030,Sala Lk                   
+      22,1912040,Möklinta                  
+      17,1913010,Östervåla                 
+      23,1913020,Nora                      
+       8,1913030,Harbo                     
+       9,1913040,Huddunge                  
+      93,1914080,Västerås                  
+      73,1915080,Sala                      
+      68,1916080,Köping                    
+      52,1917080,Arboga                    
+      48,1918080,Fagersta                  
+       2,2001010,Grycksbo                  
+      11,2001020,Aspeboda                  
+      46,2001030,Svärdsjö                  
+       5,2001032,Svartnäs Församling       
+      18,2001040,Enviken                   
+      28,2001050,Sundborn                  
+      25,2001060,Vika                      
+       4,2001061,Hosjö                     
+      48,2001070,Stora Kopparberg          
+      12,2002010,Torsång                   
+      68,2002020,Stora Tuna                
+       5,2002021,Amsberg                   
+      24,2002030,Silvberg                  
+      12,2002040,Gustav                    
+       6,2003010,Säters Lk                 
+      25,2003020,Stora Skedvi              
+      62,2003030,Husby                     
+      38,2003040,Hedemora Lk               
+      27,2003050,Garpenberg                
+       9,2004010,Grytnäs                   
+      45,2004020,Folkärna                  
+      67,2004030,By                        
+      27,2004190,Krylbo Köping             
+      36,2005010,Gagnef                    
+      11,2005011,Mockfjärd                 
+      72,2006010,Leksand                   
+       5,2006011,Djura                     
+       2,2006015,Leksand Noret             
+       9,2006020,Siljansnäs                
+      24,2006030,Ål                        
+      28,2006040,Bjursås                   
+      29,2007010,Rättvik                   
+      29,2007015,Rättviks Me               
+      22,2007020,Boda                      
+      26,2007030,Ore                       
+      92,2008010,Mora                      
+       9,2008020,Våmhus                    
+      10,2008030,Sollerön                  
+      19,2008040,Venjan                    
+       2,2008090,Morastrand                
+      41,2009010,Orsa                      
+       8,2009011,Skattunge                 
+      26,2009015,Orsa Me                   
+      43,2010010,Älvdalen                  
+       6,2010011,Evertsberg                
+      19,2011010,Särna                     
+      21,2011011,Idre                      
+      35,2012010,Nås                       
+      49,2012020,Järna                     
+      22,2012025,Vansbro                   
+      41,2012030,Säfsnäs                   
+      18,2012040,Floda                     
+      41,2013010,Malung                    
+       9,2013011,Tyngsjö                   
+      13,2013015,Malungs Me                
+      33,2013020,Lima                      
+      34,2013030,Transtrand                
+      18,2013040,Äppelbo                   
+      84,2014010,Grangärde                 
+      35,2014011,Grängesberg               
+      47,2014030,Norrbärke                 
+      31,2014040,Söderbärke                
+      11,2014050,Malingsbo                 
+      58,2014060,Ludvike Lk                
+      27,2014190,Smedjebackens Kg          
+      92,2015080,Falun                     
+      33,2016080,Säter                     
+      68,2017080,Hedemora                  
+      48,2018080,Ludvika                   
+      84,2019080,Borlänge                  
+      46,2020080,Avesta                    
+      22,2101010,Hedesunda                 
+      26,2101011,Hedesunda Förs            
+       5,2101012,Söderfors                 
+      18,2101020,Arsunda                   
+      87,2101040,Valbo                     
+      26,2101050,Hille                     
+      49,2101060,Hamrånge                  
+      79,2102010,Ockelbo                   
+      11,2102011,Åmot                      
+      23,2102020,Järbo                     
+      43,2102030,Ovansjö                   
+      56,2102040,Torsåker                  
+      44,2102050,Österfärnebo              
+      37,2102060,Hofors                    
+      25,2102090,Storviks Kg               
+      35,2103010,Alfta                     
+      37,2103020,Ovanåker                  
+      28,2103030,Voxna                     
+       7,2103050,Segersta                  
+      39,2103060,Hanebo                    
+      72,2103070,Bollnäs Lk                
+      28,2104010,Skog                      
+      15,2104011,Lingbo                    
+      79,2104020,Söderala                  
+      32,2104022,Ljusne                    
+      16,2104023,Bergvik                   
+       9,2104030,Mo                        
+      12,2104040,Rengsjö                   
+      29,2104050,Norrala                   
+       7,2104060,Trönö                     
+      27,2105010,Enånger                   
+      34,2105020,Njutånger                 
+       5,2105030,Nianfors                  
+      40,2106010,Harmånger                 
+      11,2106020,Jättendal                 
+      30,2106030,Gnarp                     
+      45,2106040,Bergsjö                   
+      40,2106050,Hassela                   
+      15,2106060,Hälsingtuna               
+      21,2106070,Idenor                    
+      41,2106100,Forsa                     
+       7,2106110,Hög                       
+      27,2106120,Rogsta                    
+       7,2106130,Ilsbo                     
+      12,2107010,Norrbo                    
+      67,2107020,Bjurånger                 
+      51,2107030,Delsbo                    
+      53,2108010,Ljusdal                   
+       0,2108015,Ljusdals Me               
+      23,2108020,Ramsjö                    
+      46,2108030,Färila                    
+      63,2108040,Los                       
+      10,2108042,Hamra                     
+       6,2108050,Färila-Kårböle            
+       4,2108052,Kårböle                   
+      62,2108090,Ljusdals Kg               
+      28,2109010,Arbrå                     
+      25,2109015,Arbrå Me                  
+      15,2109020,Undersvik                 
+      62,2109030,Järvsjö                   
+     172,2110080,Gävle                     
+     113,2111080,Söderhamn                 
+      83,2112080,Hudiksvall                
+      49,2113080,Sandviken                 
+      69,2114080,Bollnäs                   
+      29,2201010,Selånger                  
+      14,2201020,Sättna                    
+      50,2202010,Tuna                      
+      32,2202020,Attmar                    
+      65,2202030,Stöde                     
+      96,2203010,Torp                      
+      34,2203020,Borgsjö                   
+      16,2203025,Alby                      
+      47,2203030,Haverö                    
+      21,2203090,Ånge                      
+      77,2204010,Njurunda                  
+      47,2205020,Alnö                      
+      63,2205090,Sköns Kg                  
+      54,2205190,Timrå Kg                  
+      20,2206010,Indal                     
+      52,2206020,Indals-Liden              
+      17,2206030,Holm                      
+      24,2207010,Ljustorp                  
+      62,2207020,Hässjö                    
+       6,2207030,Tynderö                   
+      61,2208010,Säbrå                     
+      32,2208020,Stigsjö                   
+      14,2208030,Viksjö                    
+       8,2208040,Häggdånger                
+      60,2208060,Högsjö                    
+       9,2208070,Hemsjö                    
+      26,2208100,Nora                      
+      57,2208110,Bjärtrå                   
+       8,2208120,Skog                      
+       5,2209010,Torsåker                  
+      48,2209020,Ytterlännäs               
+      25,2209025,Nyland                    
+       9,2209030,Dal                       
+      21,2209040,Boteå                     
+      14,2209050,Styrnäs                   
+       5,2209060,Överlännäs                
+       8,2209070,Sånga                     
+      16,2210020,Multrå                    
+       9,2210030,Ed                        
+      32,2210040,Långsele                  
+      27,2210050,Graninge                  
+      40,2211010,Resele                    
+      31,2211020,Ådals-Liden               
+      60,2211030,Junsele                   
+      36,2212010,Helgum                    
+      62,2212020,Ramsele                   
+      23,2212030,Edsele                    
+      23,2212040,Bodum                     
+      41,2212050,Fjällsjö                  
+      65,2212060,Tåsjö                     
+      48,2213010,Nätra                     
+      28,2213020,Sidensjö                  
+      18,2213030,Skorped                   
+      77,2213040,Anundsjö                  
+       1,2213045,Bredbyn                   
+      28,2214010,Nordingrå                 
+      17,2214020,Ullånger                  
+       7,2214030,Vibyggerå                 
+      67,2215010,Själevad                  
+      13,2215020,Mo                        
+      56,2215030,Björna                    
+      45,2215040,Arnäs                     
+      49,2215050,Gideå                     
+      25,2215060,Trehörningsjö             
+      40,2215070,Grundsunda                
+      95,2216080,Härnösand                 
+     120,2217080,Sundsvall                 
+      76,2218080,Örnsköldsvik              
+     119,2219080,Kramfors                  
+      58,2220080,Sollefteå                 
+      48,2301010,Ragunda                   
+      35,2301020,Fors                      
+      30,2301030,Hällesjö                  
+      27,2301040,Håsjö                     
+      36,2301050,Stugun                    
+      12,2301060,Borgvattnet               
+      66,2302010,Revsund                   
+      12,2302020,Sundsjö                   
+      29,2302030,Bräcke                    
+      22,2302035,Bräcke Me                 
+      13,2302040,Bodsjö                    
+       6,2302050,Nyhem                     
+      24,2302060,Brunflo                   
+       3,2302070,Marieby                   
+      26,2302100,Lockne                    
+      20,2302110,Hackås                    
+       2,2302111,Gillhov                   
+       5,2302120,Näs                       
+      37,2303010,Lit                       
+       3,2303020,Kyrkås                    
+      34,2303030,Häggenås                  
+      34,2303040,Föllinge                  
+       6,2303050,Laxsjö                    
+      17,2303060,Hotagen                   
+      21,2304010,Hammerdal                 
+      30,2304015,Hammerdals Me             
+       9,2304020,Gåxsjö                    
+      67,2304030,Ström                     
+      26,2304035,Strömsund                 
+      24,2304040,Alanäs                    
+      25,2304050,Frostviken                
+      30,2305010,Rödön                     
+      28,2305020,Näskott                   
+      15,2305030,Aspås                     
+      11,2305040,Ås                        
+      10,2306010,Sunne                     
+      15,2306090,Frösö Kg                  
+      17,2307010,Oviken                    
+       8,2307020,Myssjö                    
+      16,2308010,Hallen                    
+       3,2308020,Norderön                  
+       9,2308030,Marby                     
+      16,2309010,Undersåker                
+      30,2309015,Hjärpen                   
+      20,2309020,Mörsil                    
+      43,2309030,Åre                       
+      25,2309040,Kall                      
+      45,2310010,Offerdal                  
+      18,2310020,Alsen                     
+      12,2310030,Mattmar                   
+      57,2311010,Sveg                      
+       8,2311020,Linsäll                   
+      15,2311030,Älvros                    
+      12,2311040,Lillhärdal                
+      28,2311050,Ytterhogdal               
+       7,2311060,Överhogdal                
+       8,2311070,Ängersjö                  
+       1,2311090,Svegs Kg                  
+      29,2312010,Hede                      
+      14,2312020,Storsjö                   
+       9,2312040,Vemdalen                  
+      11,2312050,Tännäs                    
+       2,2312052,Ljusnedals Förs           
+      29,2313010,Berg                      
+      12,2313020,Åsarne                    
+      36,2313030,Rätan                     
+      12,2313040,Klövsjö                   
+      90,2314080,Östersund                 
+      24,2401010,Nordmaling                
+      95,2401015,Nordmalings Me            
+       3,2401016,Rundvik                   
+      13,2401020,Bjurholm                  
+      47,2401025,Bjurholms Me              
+      11,2401030,Hörnefors                 
+      21,2401035,Hörnefors Me              
+      87,2402010,Umeå Lk                   
+       4,2402016,Teg                       
+       1,2402017,Backen                    
+      36,2402020,Vännäs                    
+       3,2402027,Vännäsby                  
+      35,2402030,Sävar                     
+       2,2402032,Holmö                     
+      33,2402090,Vännäs Kg                 
+      27,2402190,Holmsunds Kg              
+     111,2403010,Degerfors                 
+      15,2403015,Vindeln                   
+      17,2403016,Hällnäs                   
+       9,2403017,Granön                    
+      67,2404010,Bygdeå                    
+      18,2404015,Robertsfors Me            
+      15,2404020,Nysätra                   
+       5,2404025,Ånäset                    
+      16,2404030,Lövånger                  
+      33,2404035,Lövångers Me              
+      17,2405010,Burträsk                  
+       5,2405011,Kalvträsk                 
+      88,2405015,Burträsks Me              
+      46,2406010,Skellefteå Lk             
+       1,2406016,Skelleftestrand           
+       9,2406017,Kåge                      
+       6,2406018,Sunnanå                   
+      20,2406020,Byske                     
+       9,2406022,Fällfors Församling       
+      74,2406025,Byske Me                  
+      18,2406030,Jörn                      
+      53,2406035,Jörns Me                  
+      16,2406040,Bureå                     
+      33,2406045,Bureå Me                  
+      65,2407010,Malå                      
+      10,2407015,Malåträsk                 
+      25,2407020,Norsjö                    
+      18,2407025,Bastuträsk                
+      74,2407026,Norsjö Me                 
+       9,2408020,Örträsk                   
+      13,2408030,Stensele                  
+      60,2408035,Stensele Me               
+      14,2408036,Storuman                  
+      10,2408040,Tärna                     
+      17,2408050,Sorsele                   
+      57,2408055,Sorsele Me                
+     144,2408060,Lycksele Lk               
+      28,2409010,Åsele                     
+      71,2409015,Åsele Me                  
+      22,2409020,Fredrika                  
+      28,2409030,Vilhelmina                
+       1,2409035,Vilhelmina Me             
+      23,2409040,Dorotea                   
+       5,2409041,Risbäck                   
+      72,2409045,Dorotea Me                
+     106,2409090,Vilhelmina Kg             
+     138,2410080,Umeå                      
+     148,2411080,Skellefteå                
+      44,2412080,Lycksele                  
+      91,2501010,Piteå Lk                  
+      49,2501020,Norrfjärden               
+      22,2501030,Hortlax                   
+      17,2502010,Älvsby                    
+      77,2502090,Älvsby Kg                 
+      29,2503010,Arvidsjaur                
+     120,2503015,Arvidsjaur Me             
+      48,2504010,Arjeplog                  
+     126,2505010,Nederluleå                
+      98,2506010,Överluleå                 
+      73,2506020,Edefors                   
+     122,2507010,Jokkmokk                  
+       3,2507011,Kvikkjokk                 
+      98,2508010,Råneå                     
+      11,2509010,Nederkalix                
+      98,2509011,Nederkalix Församling     
+      31,2509015,Kalix                     
+      55,2509020,Töre                      
+      94,2510010,Överkalix                 
+      53,2511010,Gällivare                 
+      63,2511015,Gällivare Me              
+      45,2511016,Malmberget                
+      22,2512010,Nedertorneå               
+      37,2512020,Karl Gustav               
+      36,2513010,Övertorneå                
+      12,2513020,Hietaniemi                
+      25,2514010,Korpilombolo              
+      20,2514020,Tärendö                   
+      44,2515010,Pajala                    
+       1,2515011,Muonionalusta             
+      10,2515020,Junosuando                
+      15,2516010,Jukkasjärvi               
+      10,2516012,Vittangi                  
+       3,2517010,Karesuando                
+     133,2518080,Luleå                     
+      72,2519080,Piteå                     
+      36,2520080,Haparanda                 
+      72,2521080,Boden                     
+      92,2522080,Kiruna

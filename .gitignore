@@ -1,0 +1,5 @@
+.Rproj.user/
+inst/
+data-raw/geocodes/
+data-raw/*.gz
+.Rproj.user

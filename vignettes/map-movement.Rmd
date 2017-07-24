@@ -1,0 +1,103 @@
+---
+title: "Map popular movments"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Map movement}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+A example of how to map popular movments through geolocations. 
+
+```{r init}
+library(movement)
+library(histmaps)
+library(dplyr)
+# aggregate by year, geoid and orgtypn
+gdat <- movement %>% group_by(geoid, year, orgtypn, lanskod, lon, lat) %>% 
+  summarise(memb = sum(medl, na.rm = T)) %>% 
+  filter(!is.na(lat), !is.na(lon)) %>% 
+  as.data.frame()
+```
+
+Plot simple map 
+
+```{r plot, fig.height = 10, fig.width = 7}
+library(sp)
+library(rgdal)
+
+crs <- CRS("+init=epsg:2400")
+sp_gdat <- SpatialPointsDataFrame(gdat[ ,c("lon", "lat")], proj = crs, data = gdat[ ,c(1:4, 7)])
+plot(sweden)
+plot(sp_gdat[sp_gdat@data$year == 1940, ], add = T, pch = ".")
+```
+
+Plot by orgtypn
+
+```{r plot2, fig.width = 7, fig.height = 15}
+library(ggplot2)
+
+ggdat <- as.data.frame(sp_gdat)
+sve <- sp_to_ggplot(sweden)
+
+ggplot() + 
+  geom_path(data = sve, aes(long, lat, group = group), color = "grey") + 
+  geom_point(data = filter(ggdat, year == 1940), aes(lon, lat, size = memb), color = "blue") + 
+  # scale_size_area() +
+  scale_size(range = c(0.4, 6)) +
+  coord_equal() +
+  facet_wrap(~orgtypn) + 
+  theme_void()
+```
+
+Free-church by year
+
+```{r plot3, fig.width = 7, fig.height = 15}
+ggplot() + 
+  geom_path(data = sve, aes(long, lat, group = group), color = "grey") + 
+  geom_point(data = filter(ggdat, year %in% seq(1885, 1945, 10), orgtypn == "frik"), aes(lon, lat, size = memb), color = "blue") + 
+  # scale_size_area() +
+  scale_size(range = c(0.4, 6)) +
+  coord_equal() +
+  facet_wrap(~year) + 
+  theme_void()
+```
+
+Workers unions
+
+```{r plot4, fig.width = 7, fig.height = 15}
+ggplot() + 
+  geom_path(data = sve, aes(long, lat, group = group), color = "grey") + 
+  geom_point(data = filter(ggdat, year %in% seq(1885, 1945, 10), orgtypn == "fackf"), aes(lon, lat, size = memb), color = "blue") + 
+  # scale_size_area() +
+  scale_size(range = c(0.4, 6)) +
+  coord_equal() +
+  facet_wrap(~year) + 
+  theme_void()
+```
+
+Temperance movement
+
+```{r plot5, fig.width = 7, fig.height = 15}
+ggplot() + 
+  geom_path(data = sve, aes(long, lat, group = group), color = "grey") + 
+  geom_point(data = filter(ggdat, year %in% seq(1885, 1945, 10), orgtypn == "nykt"), aes(lon, lat, size = memb), color = "blue") + 
+  # scale_size_area() +
+  scale_size(range = c(0.4, 6)) +
+  coord_equal() +
+  facet_wrap(~year) + 
+  theme_void()
+```
+
+Socialist party
+
+```{r plot6, fig.width = 7, fig.height = 15}
+ggplot() + 
+  geom_path(data = sve, aes(long, lat, group = group), color = "grey") + 
+  geom_point(data = filter(ggdat, year %in% seq(1885, 1945, 10), orgtypn == "parti"), aes(lon, lat, size = memb), color = "blue") + 
+  # scale_size_area() +
+  scale_size(range = c(0.4, 6)) +
+  coord_equal() +
+  facet_wrap(~year) + 
+  theme_void()
+```

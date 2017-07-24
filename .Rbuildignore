@@ -1,0 +1,6 @@
+^data-raw/*
+^.*\.Rproj$
+^\.Rproj\.user$
+^init\.R$
+^TODO\.md$
+^popmove/*
